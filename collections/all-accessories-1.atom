@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thenarwhalboutique.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thenarwhalboutique.myshopify.com/collections/all-accessories-1.atom"/>
+  <title>The Narwhal</title>
+  <updated>2021-07-25T13:24:40-05:00</updated>
+  <author>
+    <name>The Narwhal</name>
+  </author>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6684647653439</id>
+    <published>2021-07-25T13:24:40-05:00</published>
+    <updated>2021-07-25T13:24:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/dash-scarf-in-pink"/>
+    <title>DASH SCARF IN PINK</title>
+    <s:type>SCARF</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ismdb306731a561_1625693749983_2-0.jpg?v=1627237544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>SCARF<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft cashmere scarf by Isabel Marant.</p>
+<ul class="bulleted-attributes">
+<li>Details: Soft, brushed weave, frayed edges, plaid pattern</li>
+<li>Materiall: 70% wool/30% cashmere<br>
+</li>
+<li>Dry clean</li>
+<li>Imported, Nepal</li>
+<li>
+<p>Width: 26.75in / 68cm, <span data-mce-fragment="1">Length: 74in / 188cm</span></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684647653439</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">390.00</s:price>
+      <s:sku>IM-PF21-DASH SCARF</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6672738484287</id>
+    <published>2021-07-11T13:01:02-05:00</published>
+    <updated>2021-07-11T13:01:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/scarfili-neckerchief-in-dark-green"/>
+    <title>SCARFILI NECKERCHIEF IN DARK GREEN</title>
+    <s:type>SCARF</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/scarfilli-green-1.jpg?v=1626319900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>SCARF<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="value">Printed silk foulard scarf by Isabel Marant.</span></p>
+<ul>
+<li>Details: Silk printed scarf</li>
+<li>Material: 100% silk</li>
+<li>Measurements: 90 x 90 cm / 35.4 x 35.4 in</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6672738484287</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">320.00</s:price>
+      <s:sku>IM-PF21-SCARFILI</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6672737468479</id>
+    <published>2021-07-11T12:59:23-05:00</published>
+    <updated>2021-07-11T12:59:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/scarfili-neckerchief-in-pink"/>
+    <title>SCARFILI NECKERCHIEF IN PINK</title>
+    <s:type>SCARF</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/46765489et_23_f.jpg?v=1626026357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>SCARF<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="value">Printed silk foulard scarf by Isabel Marant.</span></p>
+<ul>
+<li>Details: Silk printed scarf</li>
+<li>Material: 100% silk</li>
+<li>Measurements: 90 x 90 cm / 35.4 x 35.4 in</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6672737468479</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">320.00</s:price>
+      <s:sku>IM-PF21-SCARFILI</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6668917801023</id>
+    <published>2021-07-07T19:52:02-05:00</published>
+    <updated>2021-07-07T19:52:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/dash-scarf-in-blue"/>
+    <title>DASH SCARF IN BLUE</title>
+    <s:type>SCARF</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ismdb306731a569_1624288790524_2-0.jpg?v=1625705645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>SCARF<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft cashmere scarf by Isabel Marant.</p>
+<ul class="bulleted-attributes">
+<li>Details: Soft, brushed weave, frayed edges, plaid pattern</li>
+<li>Materiall: 70% wool/30% cashmere<br>
+</li>
+<li>Dry clean</li>
+<li>Imported, Nepal</li>
+<li>
+<p>Width: 26.75in / 68cm, <span data-mce-fragment="1">Length: 74in / 188cm</span></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668917801023</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">390.00</s:price>
+      <s:sku>IM-PF21-DASH SCARF</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6667113627711</id>
+    <published>2021-07-06T06:32:15-05:00</published>
+    <updated>2021-07-06T06:32:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/kaleidescope-blanket-scarf"/>
+    <title>KALEIDESCOPE BLANKET SCARF</title>
+    <s:type>SCARF</s:type>
+    <s:vendor>THE ELDER STATESMAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/452f2abf1cecbd246b238490eb85d72d.jpg?v=1625570879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THE ELDER STATESMAN<br>
+        <strong>Type: </strong>SCARF<br>
+        <strong>Price: </strong>
+            1765.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cashmere blanket scarf by The Elder Statesman.</p>
+<ul>
+<li>Details: Hand tie dyed in ivory with tangelo, hibiscus and turquoise</li>
+<li>Material: 100% cashmere</li>
+<li>Measurements: 33" x 94"</li>
+<li>Dry clean only</li>
+<li>Made in Los Angeles and left to dry in the California sun</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>THE ELDER STATESMAN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6667113627711</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1765.00</s:price>
+      <s:sku>TES-PF21-KALEIDESCOPE BLANKET SCARF</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6631372587071</id>
+    <published>2021-05-26T11:47:31-05:00</published>
+    <updated>2021-05-26T11:47:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/camo-socks-in-brown-and-orange"/>
+    <title>CAMO SOCKS IN BROWN AND ORANGE</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>GOLDEN GOOSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_6614.jpg?v=1622047678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GOLDEN GOOSE<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute camp socks by Golden Goose.<br></p>
+<ul>
+<ul>
+<li>Details: Double layer, green logo</li>
+<li>Material: 74% cotton, 25% polyamide, 1% elastane</li>
+<li>One size</li>
+<li>Wash cold,lay flat to dry</li>
+</ul>
+</ul>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>GOLDEN GOOSE</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>SOCKS</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631372587071</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>GG-PF21-CAMO SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6631372357695</id>
+    <published>2021-05-26T11:46:53-05:00</published>
+    <updated>2021-05-26T11:46:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/camo-socks-in-army-grey-and-blue"/>
+    <title>CAMO SOCKS IN ARMY GREY AND BLUE</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>GOLDEN GOOSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_6616.jpg?v=1622047626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GOLDEN GOOSE<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute camp socks by Golden Goose.<br></p>
+<ul>
+<ul>
+<li>Details: Double layer, green logo</li>
+<li>Material: 74% cotton, 25% polyamide, 1% elastane</li>
+<li>One size</li>
+<li>Wash cold,lay flat to dry</li>
+</ul>
+</ul>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>GOLDEN GOOSE</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>SOCKS</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631372357695</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>GG-PF21-CAMO SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6631371702335</id>
+    <published>2021-05-26T11:45:48-05:00</published>
+    <updated>2021-05-26T11:45:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/camo-socks-in-army-green-and-yellow"/>
+    <title>CAMO SOCKS IN ARMY GREEN AND YELLOW</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>GOLDEN GOOSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_6618.jpg?v=1622047580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GOLDEN GOOSE<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute camp socks by Golden Goose.<br></p>
+<ul>
+<ul>
+<li>Details: Double layer, green logo</li>
+<li>Material: 74% cotton, 25% polyamide, 1% elastane</li>
+<li>One size</li>
+<li>Wash cold,lay flat to dry</li>
+</ul>
+</ul>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>GOLDEN GOOSE</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>SOCKS</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631371702335</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>GG-PF21-CAMO SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6631371440191</id>
+    <published>2021-05-26T11:44:46-05:00</published>
+    <updated>2021-05-26T11:44:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/leopard-socks-in-clay-and-fuchsia"/>
+    <title>LEOPARD SOCKS IN CLAY AND FUCHSIA</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>GOLDEN GOOSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_6612_jpg.jpg?v=1622047511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GOLDEN GOOSE<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute logo socks by Golden Goose.<br></p>
+<ul>
+<ul>
+<li>Details: Double layer, green logo</li>
+<li>Material: 74% cotton, 25% polyamide, 1% elastane</li>
+<li>One size</li>
+<li>Wash cold,lay flat to dry</li>
+</ul>
+</ul>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>GOLDEN GOOSE</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>SOCKS</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631371440191</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>GG-PF21-LEO SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6631370653759</id>
+    <published>2021-05-26T11:43:32-05:00</published>
+    <updated>2021-05-26T11:43:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/leopard-socks-in-blackberry-green"/>
+    <title>LEOPARD SOCKS IN BLACKBERRY/GREEN</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>GOLDEN GOOSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_6610_jpg.jpg?v=1622047441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GOLDEN GOOSE<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute logo socks by Golden Goose.<br></p>
+<ul>
+<ul>
+<li>Details: Double layer, green logo</li>
+<li>Material: 74% cotton, 25% polyamide, 1% elastane</li>
+<li>One size</li>
+<li>Wash cold,lay flat to dry</li>
+</ul>
+</ul>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>GOLDEN GOOSE</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>SOCKS</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631370653759</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>GG-PF21-LEO SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6631368130623</id>
+    <published>2021-05-26T11:41:34-05:00</published>
+    <updated>2021-05-26T11:41:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/copy-of-logo-socks-in-navy"/>
+    <title>LEOPARD SOCKS IN ORANGE AND BLUE</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>GOLDEN GOOSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_6608_jpg.jpg?v=1622047337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GOLDEN GOOSE<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute logo socks by Golden Goose.<br></p>
+<ul>
+<ul>
+<li>Details: Double layer, green logo</li>
+<li>Material: 74% cotton, 25% polyamide, 1% elastane</li>
+<li>One size</li>
+<li>Wash cold,lay flat to dry</li>
+</ul>
+</ul>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>GOLDEN GOOSE</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>SOCKS</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631368130623</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>GG-PF21-LEO SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6631367999551</id>
+    <published>2021-05-26T11:41:00-05:00</published>
+    <updated>2021-05-26T11:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/logo-socks-in-navy"/>
+    <title>LOGO SOCKS IN NAVY</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>GOLDEN GOOSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_6606.jpg?v=1622047278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GOLDEN GOOSE<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute logo socks by Golden Goose.<br></p>
+<ul>
+<ul>
+<li>Details: Double layer, green logo</li>
+<li>Material: 74% cotton, 25% polyamide, 1% elastane</li>
+<li>One size</li>
+<li>Wash cold,lay flat to dry</li>
+</ul>
+</ul>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>GOLDEN GOOSE</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>SOCKS</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631367999551</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>GG-PF21-LOGO SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6631367245887</id>
+    <published>2021-05-26T11:39:18-05:00</published>
+    <updated>2021-05-26T11:39:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/logo-socks-in-green"/>
+    <title>LOGO SOCKS IN GREEN</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>GOLDEN GOOSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/GUP00883.P000487-81237.jpg?v=1622047159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GOLDEN GOOSE<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute logo socks by Golden Goose.<br></p>
+<ul>
+<ul>
+<li>Details: Double layer, green logo</li>
+<li>Material: 74% cotton, 25% polyamide, 1% elastane</li>
+<li>One size</li>
+<li>Wash cold,lay flat to dry</li>
+</ul>
+</ul>
+<div><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ACCESSORIES</s:tag>
+    <s:tag>GOLDEN GOOSE</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>SOCKS</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631367245887</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>GG-PF21-LOGO SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

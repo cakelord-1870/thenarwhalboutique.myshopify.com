@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thenarwhalboutique.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thenarwhalboutique.myshopify.com/collections/carolina-bucci.atom"/>
+  <title>The Narwhal</title>
+  <updated>2021-07-11T13:13:36-05:00</updated>
+  <author>
+    <name>The Narwhal</name>
+  </author>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6672744022079</id>
+    <published>2021-07-11T13:13:36-05:00</published>
+    <updated>2021-07-11T13:13:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/florentine-finish-large-thick-round-hoop-earrings"/>
+    <title>FLORENTINE FINISH LARGE THICK ROUND HOOP EARRINGS</title>
+    <s:type>EARRINGS</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/largebuccihoops.jpg?v=1626027217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>EARRINGS<br>
+        <strong>Price: </strong>
+            2735.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">Our signature Florentine Finish is achieved by beating each piece with a diamond tipped tool, which leaves permanent faceted dents in the gold. </p>
+<p data-mce-fragment="1">Made from 18k Yellow Gold, these Large Round Thick Hoops are approximately 4.5cm in diameter.</p>
+<p data-mce-fragment="1">Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6672744022079</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2735.00</s:price>
+      <s:sku>CB-LARGE FF THICK HOOP EARRINGS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670687436863</id>
+    <published>2021-07-09T05:35:18-05:00</published>
+    <updated>2021-07-09T05:35:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-lucky-necklace-with-peace-charm"/>
+    <title>*pre-order* LUCKY NECKLACE WITH PEACE CHARM</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/LUCKYPEACENECKLACE_1e37a5c8-8c7b-4cce-8892-3509d84bb0e8.png?v=1625826922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Necklace is Carolina Bucci's extension of the classic Lucky Bracelet, inspired by the cotton friendship bracelets of her childhood. </p>
+<p>18k Yellow Gold diamond-cut chain, hand braided with Beige silk and finished with a Peace Charm.</p>
+<p>The versatility of this piece allows it to be worn both as a necklace or wrap bracelet. Double knot and make a wish when tying.</p>
+<p>Each necklace is approximately 95cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670687436863</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2900.00</s:price>
+      <s:sku>CB-LUCKY NECKLACE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670686912575</id>
+    <published>2021-07-09T05:34:34-05:00</published>
+    <updated>2021-07-09T05:34:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-lucky-necklace-with-energy-charm"/>
+    <title>*pre-order* LUCKY NECKLACE WITH ENERGY CHARM</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/Carolina-Bucci-Necklace-25_copy_1000x_77b9e62d-fd66-4eff-bf87-55f5b358d902.png?v=1625826875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Necklace is Carolina Bucci's extension of the classic Lucky Bracelet, inspired by the cotton friendship bracelets of her childhood. </p>
+<p>18k Yellow Gold diamond-cut chain, hand braided with Pink silk and finished with a sun Energy Charm.</p>
+<p>The versatility of this piece allows it to be worn both as a necklace or wrap bracelet. Double knot and make a wish when tying.</p>
+<p>Each necklace is approximately 95cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670686912575</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670685765695</id>
+    <published>2021-07-09T05:33:28-05:00</published>
+    <updated>2021-07-09T05:33:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-lucky-necklace-with-balance-charm"/>
+    <title>*pre-order* LUCKY NECKLACE WITH BALANCE CHARM</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/Carolina-Bucci-Necklace-26_copy_1000x_614563c0-94bf-42d8-b6af-6eef992046b9.png?v=1625826810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Necklace is Carolina Bucci's extension of the classic Lucky Bracelet, inspired by the cotton friendship bracelets of her childhood. </p>
+<p>18k Yellow Gold diamond-cut chain, hand braided with Pink silk and finished with a Balance Charm.</p>
+<p>The versatility of this piece allows it to be worn both as a necklace or wrap bracelet. Double knot and make a wish when tying.</p>
+<p>Each necklace is approximately 95cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670685765695</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670676754495</id>
+    <published>2021-07-09T05:21:32-05:00</published>
+    <updated>2021-07-09T05:21:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/florentine-finish-extra-large-round-thick-hoop-earrings"/>
+    <title>FLORENTINE FINISH EXTRA LARGE ROUND THICK HOOP EARRINGS</title>
+    <s:type>EARRING</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ffxlhoops1_617b3de3-2669-4eb8-b513-c32b8e866c08.png?v=1625826093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>EARRING<br>
+        <strong>Price: </strong>
+            3695.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>Carolina Bucci's signature Florentine Finish is achieved by beating each piece with a diamond tipped tool, which leaves permanent faceted dents in the gold. </p>
+<p>Made from 18k Yellow Gold, these Extra Large Round Hoops are approximately 5.5cm in diameter.</p>
+<p>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670676754495</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3695.00</s:price>
+      <s:sku>cb-extra large hoops</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670675476543</id>
+    <published>2021-07-09T05:20:22-05:00</published>
+    <updated>2021-07-09T05:20:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-lucky-bracelet-with-peace-charm"/>
+    <title>*pre-order* LUCKY BRACELET WITH PEACE CHARM</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/CB3029PEY_1000x_430a3acf-1dfc-4e32-a7b8-5d65cbf60878.png?v=1625826024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">The Lucky Bracelet is Carolina Bucci's take on the classic cotton friendship bracelets of her childhood.</p>
+<p data-mce-fragment="1">18k Yellow Gold diamond-cut chain, hand braided with Pink silk and finished with a Cloud Charm symbolising Dream.</p>
+<p data-mce-fragment="1">This bracelet is meant to be worn alone or layered. Double knot and make a wish when tying.</p>
+<p data-mce-fragment="1">Each bracelet is approximately 34cm, including 4.5cm long tassels on either end.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670675476543</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1200.00</s:price>
+      <s:sku>CB-LUCKY BRACELET</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670674952255</id>
+    <published>2021-07-09T05:19:26-05:00</published>
+    <updated>2021-07-09T05:19:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-orrder-lucky-bracelet-with-energy-charm"/>
+    <title>*pre-orrder* LUCKY BRACELET WITH ENERGY CHARM</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ENERGYBRACELET_dc5d6c95-2a01-4c9b-91e3-303ec0b96ce0.png?v=1625825970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Bracelet is Carolina Bucci's take on the classic cotton friendship bracelets of her childhood.</p>
+<p>18k Yellow Gold diamond-cut chain, hand braided with Brown silk and finished with a Sun Charm symbolising Energy.</p>
+<p>This bracelet is meant to be worn alone or layered. Double knot and make a wish when tying.</p>
+<p>Each bracelet is approximately 34cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670674952255</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670673379391</id>
+    <published>2021-07-09T05:17:23-05:00</published>
+    <updated>2021-07-09T05:17:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/florentine-finish-cuore-hoop-earrings"/>
+    <title>FLORENTINE FINISH CUORE HEART HOOP EARRINGS</title>
+    <s:type>EARRING</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/1254977_fr_2000_bc8ba0c4-2a75-43c9-aa07-d59fe2d8adf3.jpg?v=1625825845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>EARRING<br>
+        <strong>Price: </strong>
+            2195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">Carolina Bucci's signature Florentine Finish is achieved by beating each piece with a diamond tipped tool, which leaves permanent faceted indentations in the gold. </p>
+<p data-mce-fragment="1"><span>Crafted from 18-karat gold in the shape of a loveheart, they've been carefully hammered with a diamond-tipped tool to create the designer's signature 'Florentine' finish. They're sleek and small enough to complement outfits, instead of being the focal point.</span></p>
+<p>Made from either 18k Yellow Gold, these hoops are approximately 3cm in diameter.</p>
+<p>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670673379391</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2195.00</s:price>
+      <s:sku>CB-CUORE EARRINGS</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670672330815</id>
+    <published>2021-07-09T05:15:02-05:00</published>
+    <updated>2021-07-09T05:15:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/forte-beads-glasses-kit-in-rainbow-1"/>
+    <title>FORTE BEADS GLASSES KIT IN RAINBOW</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/CB_071912391_73612b07-4c75-4db9-bd13-32652efe4513.jpg?v=1625825712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            1595.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">FORTE Beads is a collection based around a rainbow of precious hard-stone beads strung onto Lurex cords. Carolina Bucci's FORTE  Beads Glasses kit comes with 60 vibrant hard stone beads in a preset rainbow of colours and a sun cord.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">The FORTE Beads glasses sun colour Lurex cords feature beautifully crafted Florentine Finish end caps in 18k yelloww Gold</span></p>
+<p data-mce-fragment="1">Create your own distinctive designs by unscrewing the rubber loop and threading on the beads. 18k Gold Beads and Florentine Finish Letters can be bought separately to personalise your look.</p>
+<p data-mce-fragment="1">Each new combination is a unique expression of how you live today, how you feel today… Easy to construct and just as easy to deconstruct and start again.</p>
+<p data-mce-fragment="1">The FORTE Beads Glasses kit features adjustable rubber loops which fit easily over the arms of your favourite sunglasses or reading glasses.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670672330815</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1595.00</s:price>
+      <s:sku>cb-ss21-forte glasses kit</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670671937599</id>
+    <published>2021-07-09T05:14:19-05:00</published>
+    <updated>2021-07-09T05:14:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/forte-florentine-finish-letter-g-1"/>
+    <title>FORTE FLORENTINE FINISH LETTER G</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/CBP90903_G_YFF_1000x_c4352747-e5d3-4de1-84d2-a9f4808ec962.png?v=1625825661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1095.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Add our 18k gold Letters to your FORTE Beads necklace or bracelet to create your personalised look. Each of our Florentine Finish letters have been meticulously crafted in our Atelier with our signature finish created with a diamond tipped tool that leaves shimmering indents.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">All of the 18k Gold Letters are sold individually and can be ordered if currently unavailable...all special orders take approximately 6-8 weeks.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">All fine jewelry is final sale.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670671937599</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1095.00</s:price>
+      <s:sku>CB-FORTE GOLD BEADS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670671282239</id>
+    <published>2021-07-09T05:13:20-05:00</published>
+    <updated>2021-07-09T05:13:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-florentine-finish-small-cuore-pendant"/>
+    <title>*pre-order* FLORENTINE FINISH SMALL CUORE PENDANT</title>
+    <s:type>PENDANT</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/carolina-bucci-Gold-Small-Florentine-Finish-Heart-Cuore-Charm-Pendant_ddcdad4a-2ff5-4cf1-8f14-01040c622c00.jpg?v=1625825602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>PENDANT<br>
+        <strong>Price: </strong>
+            2295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><meta charset="UTF-8"><span data-mce-fragment="1">Available in 18k Yellow Gold, the Small Heart Pendant is approximately 1.5cm tall and features a classic Carolina Bucci Link</span></p>
+<p data-mce-fragment="1">This piece is meant to be worn with any of her classic chains, Discoball necklaces, Lucky Necklaces or Forte Bead Kits.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670671282239</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2295.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670670233663</id>
+    <published>2021-07-09T05:12:16-05:00</published>
+    <updated>2021-07-09T05:12:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/forte-beads-rainbow-necklace-and-bracelet-multi-kit-1"/>
+    <title>FORTE BEADS RAINBOW NECKLACE AND BRACELET MULTI-KIT</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/carolina-bucci-multicoloured-rainbow-sun-forte-bead-kit_13488848_17210463_1920_308776a2-2573-4b34-932f-d2880e2b8055.jpg?v=1625825537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span data-mce-fragment="1"></span></div>
+<div>
+<meta charset="UTF-8">
+<div>FORTE Beads is a collection based around a rainbow of precious hard-stone beads. Each necklace and bracelet is a unique expression of your style today, how you feel today… Easy to construct and just as easy to deconstruct and start again.</div>
+<div><br></div>
+<div>Our FORTE Beads Necklace and Bracelet Kit comes with 84 vibrant hard-stone beads in a preset rainbow of colours, two Florentine Finish 18k Gold beads and a bracelet and necklace cord in the colour of your choice. </div>
+<div><br></div>
+<div>The FORTE Beads collection offers four exclusive colour Lurex cords to choose from, with beautifully crafted Florentine Finish end caps in 18k Gold: </div>
+<div><br></div>
+<div>Storm, Gunmetal, Sun &amp; Moon </div>
+<div><br></div>
+<div>Create your own distinctive designs by threading on the beads and tying the cord to your preferred length. The FORTE Beads Necklace can be easily styled as a wrap bracelet or choker, allowing you to express your personal style in a creative way everyday. Additional 18k Gold beads and Florentine Finish 18k letters can be bought separately to personalise your look.</div>
+<div><br></div>
+<div>Enjoy Playing!</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670670233663</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2195.00</s:price>
+      <s:sku>CB-FORTE BEAD KIT</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670669348927</id>
+    <published>2021-07-09T05:11:20-05:00</published>
+    <updated>2021-07-09T05:11:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/forte-beads-rainbow-necklace-and-bracelet-multi-kit"/>
+    <title>FORTE BEADS RAINBOW NECKLACE AND BRACELET MULTI-KIT</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/carolina-bucci-multicoloured-rainbow-sun-forte-bead-kit_13488848_17210463_1920_a7a8a0a2-0e9b-4d4c-8183-19638c2c44ef.jpg?v=1625825483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span data-mce-fragment="1"></span></div>
+<div>
+<meta charset="UTF-8">
+<div>FORTE Beads is a collection based around a rainbow of precious hard-stone beads. Each necklace and bracelet is a unique expression of your style today, how you feel today… Easy to construct and just as easy to deconstruct and start again.</div>
+<div><br></div>
+<div>Our FORTE Beads Necklace and Bracelet Kit comes with 84 vibrant hard-stone beads in a preset rainbow of colours, two Florentine Finish 18k Gold beads and a bracelet and necklace cord in the colour of your choice. </div>
+<div><br></div>
+<div>The FORTE Beads collection offers four exclusive colour Lurex cords to choose from, with beautifully crafted Florentine Finish end caps in 18k Gold: </div>
+<div><br></div>
+<div>Storm, Gunmetal, Sun &amp; Moon </div>
+<div><br></div>
+<div>Create your own distinctive designs by threading on the beads and tying the cord to your preferred length. The FORTE Beads Necklace can be easily styled as a wrap bracelet or choker, allowing you to express your personal style in a creative way everyday. Additional 18k Gold beads and Florentine Finish 18k letters can be bought separately to personalise your look.</div>
+<div><br></div>
+<div>Enjoy Playing!</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670669348927</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2195.00</s:price>
+      <s:sku>CB-FORTE BEAD KIT</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670669185087</id>
+    <published>2021-07-09T05:10:28-05:00</published>
+    <updated>2021-07-09T05:10:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/forte-beads-moonbow-necklace-and-bracelet-multi-kit"/>
+    <title>FORTE BEADS MOONBOW NECKLACE AND BRACELET MULTI-KIT</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/carolinebuccifortemoonbowbeadkit_d3785e96-6e75-4ea8-b92c-3d5f786d1577.jpg?v=1625825431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span data-mce-fragment="1"></span></div>
+<div>FORTE Beads is a collection based around a rainbow of precious hard-stone beads. Each necklace and bracelet is a unique expression of your style today, how you feel today… Easy to construct and just as easy to deconstruct and start again.<br>
+</div>
+<div><br></div>
+<div>Carolina Bucci's FORTE Beads Moonbow Necklace and Bracelet MultiKit comes with 84 vibrant hard-stone beads in a preset moonbow of colours, two Florentine Finish 18k Yellow Gold beads and a bracelet and necklace cord in the Sun Colour. </div>
+<div>The FORTE Beads collection offers 2 gorgeous Sun Lurex cords, with beautifully crafted Florentine Finish end caps in 18k Yellow Gold. </div>
+<div><br></div>
+<div>Create your own distinctive designs by threading on the beads and tying the cord to your preferred length. Each cord is 'one size fits all' simply thread the beads on and tie the cord to your preferred length. Remove or add beads to adjust the size to suit your wrist. We recommend tying a double knot, pulled tightly, for a secure fit. Use the extra beads to change the combination of your bracelet. <br>
+</div>
+<div><br></div>
+<div>The FORTE Beads Necklace can be easily styled as a wrap bracelet or choker, allowing you to express your personal style in a creative way everyday. Additional 18k Gold beads and Florentine Finish 18k letters can be bought separately to personalise your look.</div>
+<div><br></div>
+<div>Enjoy Playing!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670669185087</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2195.00</s:price>
+      <s:sku>CB-FORTE BEAD KIT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6605903986751</id>
+    <published>2021-04-25T19:59:06-05:00</published>
+    <updated>2021-04-25T19:59:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/lucky-bracelet-with-wisdom-charm"/>
+    <title>LUCKY BRACELET WITH WISDOM CHARM</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/CB3029WIY_1000x_25320f84-7b94-4c90-80d2-d17a9af72a50.png?v=1619401907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div aria-hidden="false" data-mce-fragment="1">
+<div class="rte article_text product-description" data-mce-fragment="1" itemprop="description">
+<p data-mce-fragment="1">The Lucky Bracelet is Carolina Bucci's take on the classic cotton friendship bracelets of her childhood.</p>
+<p data-mce-fragment="1">18k Yellow Gold diamond-cut chain, hand braided with Turquoise silk and finished with a Moon Charm symbolising Wisdom.</p>
+<p data-mce-fragment="1">This bracelet is meant to be worn alone or layered. Double knot and make a wish when tying.</p>
+<p data-mce-fragment="1">Each bracelet is approximately 34cm, including 4.5cm long tassels on either end.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6605903986751</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1200.00</s:price>
+      <s:sku>CB-LUCKY BRACELET WISDOM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6605901299775</id>
+    <published>2021-04-25T19:52:56-05:00</published>
+    <updated>2021-04-25T19:52:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/lucky-bracelet-with-money-charm"/>
+    <title>LUCKY BRACELET WITH MONEY CHARM</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/CB3029MOY_1000x_0256a657-e112-4c5d-a296-9e0f2c45308a.png?v=1619401889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">The Lucky Bracelet is Carolina Bucci's take on the classic cotton friendship bracelets of her childhood.</p>
+<p data-mce-fragment="1">18k Yellow Gold diamond-cut chain, hand braided with Pink silk and finished with a Cloud Charm symbolising Dream.</p>
+<p data-mce-fragment="1">This bracelet is meant to be worn alone or layered. Double knot and make a wish when tying.</p>
+<p data-mce-fragment="1">Each bracelet is approximately 34cm, including 4.5cm long tassels on either end.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6605901299775</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1200.00</s:price>
+      <s:sku>CB-LUCKY BRACELET</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6605900677183</id>
+    <published>2021-04-25T19:51:20-05:00</published>
+    <updated>2021-04-25T19:51:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/lucky-bracelet-with-friendship-charm"/>
+    <title>LUCKY BRACELET WITH FRIENDSHIP CHARM</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_2624_8f838746-c3e2-41a1-b22d-1a6f24b48db5.jpg?v=1619398282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">The Lucky Bracelet is Carolina Bucci's take on the classic cotton friendship bracelets of her childhood.</p>
+<p data-mce-fragment="1">18k Yellow Gold diamond-cut chain, hand braided with Purple silk and finished with a Butterfly Charm symbolising Freedom.</p>
+<p data-mce-fragment="1">This bracelet is meant to be worn alone or layered. Double knot and make a wish when tying.</p>
+<p data-mce-fragment="1">Each bracelet is approximately 34cm, including 4.5cm long tassels on either end.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces</span>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6605900677183</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1200.00</s:price>
+      <s:sku>CB-LUCKY BRACELET WITH FREEDOM CHARM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6605899104319</id>
+    <published>2021-04-25T19:48:01-05:00</published>
+    <updated>2021-04-25T19:48:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/lucky-bracelet-with-fortune-charm"/>
+    <title>LUCKY BRACELET WITH FORTUNE CHARM</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/CB3029FOY_1000x_2c9f2224-dca9-4a60-a3de-8580e3c14816.png?v=1619401824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">The Lucky Bracelet is Carolina Bucci's take on the classic cotton friendship bracelets of her childhood.</p>
+<p data-mce-fragment="1">18k Yellow Gold diamond-cut chain, hand braided with Forest Green silk and finished with a Ladybug Charm symbolising Fortune.</p>
+<p data-mce-fragment="1">This bracelet is meant to be worn alone or layered. Double knot and make a wish when tying.</p>
+<p data-mce-fragment="1">Each bracelet is approximately 34cm, including 4.5cm long tassels on either end.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Please note that as each product is made by hand, there may be slight natural va</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6605899104319</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1200.00</s:price>
+      <s:sku>CB-LUCKY BRACELET FORTUNE</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6550777004095</id>
+    <published>2021-03-08T19:56:49-06:00</published>
+    <updated>2021-03-08T19:56:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/florentine-finish-large-cuore-pendant"/>
+    <title>FLORENTINE FINISH LARGE CUORE PENDANT</title>
+    <s:type>PENDANT</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/LARGECUOREPENDANT.png?v=1615255010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>PENDANT<br>
+        <strong>Price: </strong>
+            5095.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">This pendant draws inspiration from the Recharmed Capsule collection; key motifs have been refreshed through the use of our signature Florentine Finish.  </p>
+<p data-mce-fragment="1">Available in 18k Yellow Gold, this pendant is approximately 3.6cm tall and features a classic Carolina Bucci Link.</p>
+<p data-mce-fragment="1">This piece is meant to be worn with any of her classic chains, Discoball necklaces or Lucky Necklaces. </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6550777004095</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5095.00</s:price>
+      <s:sku>CB-LARGE CUORE PENDANT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6550765207615</id>
+    <published>2021-03-08T19:32:45-06:00</published>
+    <updated>2021-03-08T19:32:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/copy-of-lucky-bracelet-with-happiness-charm"/>
+    <title>LUCKY BRACELET WITH LOVE CHARM</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/1090808_in_2000.jpg?v=1618949233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Bracelet is Carolina Bucci's take on the classic cotton friendship bracelets of her childhood.</p>
+<p>18k Yellow Gold diamond-cut chain, hand braided with Red silk and finished with a Heart Charm symbolising Love.</p>
+<p>This bracelet is meant to be worn alone or layered. Double knot and make a wish when tying.</p>
+<p>Each bracelet is approximately 34cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6550765207615</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1200.00</s:price>
+      <s:sku>CB-LUCKY BRACELET LOVE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6550763962431</id>
+    <published>2021-03-08T19:30:12-06:00</published>
+    <updated>2021-03-08T19:30:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/copy-of-lucky-bracelet-with-dream-charm"/>
+    <title>LUCKY BRACELET WITH HAPPINESS CHARM</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/LUCKYHAPPINESSBRACELET.png?v=1615253479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Bracelet is Carolina Bucci's take on the classic cotton friendship bracelets of her childhood.</p>
+<p>18k Yellow Gold diamond-cut chain, hand braided with Orange silk and finished with a Smile Charm symbolising Happiness.</p>
+<p>This bracelet is meant to be worn alone or layered. Double knot and make a wish when tying.</p>
+<p>Each bracelet is approximately 34cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6550763962431</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1200.00</s:price>
+      <s:sku>CB-LUCKY BRACLET HAPPINESS</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/4960832815167</id>
+    <published>2021-02-21T18:54:16-06:00</published>
+    <updated>2021-02-21T18:54:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/lucky-necklace-with-baby-boy-charm"/>
+    <title>LUCKY NECKLACE WITH BABY BOY CHARM</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/LUCKYBABYBOYNECKLACE.png?v=1613955289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Necklace is Carolina Bucci's extension of the classic Lucky Bracelet, inspired by the cotton friendship bracelets of her childhood. </p>
+<p>18k Pink Gold diamond-cut chain, hand braided with Pink silk and finished with a Baby Boy Charm.</p>
+<p>The versatility of this piece allows it to be worn both as a necklace or wrap bracelet. Double knot and make a wish when tying.</p>
+<p>Each necklace is approximately 95cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4960832815167</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/4960832094271</id>
+    <published>2021-02-21T18:52:27-06:00</published>
+    <updated>2021-02-21T18:52:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/copy-of-lucky-necklace-with-baby-girl-charm-1"/>
+    <title>LUCKY NECKLACE WITH HAPPINESS CHARM</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/LUCKYHAPPINESSNECKLACE.png?v=1613955208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Necklace is Carolina Bucci's extension of the classic Lucky Bracelet, inspired by the cotton friendship bracelets of her childhood. </p>
+<p>18k Yellow Gold diamond-cut chain, hand braided with Pink silk and finished with a Happiness Charm.</p>
+<p>The versatility of this piece allows it to be worn both as a necklace or wrap bracelet. Double knot and make a wish when tying.</p>
+<p>Each necklace is approximately 95cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4960832094271</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/4958205378623</id>
+    <published>2021-02-18T20:26:03-06:00</published>
+    <updated>2021-02-18T20:26:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/lucky-necklace-with-love-charm"/>
+    <title>LUCKY NECKLACE WITH LOVE CHARM</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/LUCKYLOVENECKLACE.jpg?v=1613701598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Necklace is Carolina Bucci's extension of the classic Lucky Bracelet, inspired by the cotton friendship bracelets of her childhood. </p>
+<p>18k Yellow Gold diamond-cut chain, hand braided with red silk and finished with a Love Charm.</p>
+<p>The versatility of this piece allows it to be worn both as a necklace or wrap bracelet. Double knot and make a wish when tying.</p>
+<p>Each necklace is approximately 95cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4958205378623</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2900.00</s:price>
+      <s:sku>CB-LUCKY NECKLACE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/4958199087167</id>
+    <published>2021-02-18T20:15:28-06:00</published>
+    <updated>2021-02-18T20:15:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/copy-of-lucky-necklace-with-money-charm"/>
+    <title>LUCKY NECKLACE WITH BABY GIRL CHARM</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/LUCKYNECKLACEGIRLDETAIL3.jpg?v=1613701050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Necklace is Carolina Bucci's extension of the classic Lucky Bracelet, inspired by the cotton friendship bracelets of her childhood. </p>
+<p>18k Pink Gold diamond-cut chain, hand braided with Pink silk and finished with a Baby Girl Charm.</p>
+<p>The versatility of this piece allows it to be worn both as a necklace or wrap bracelet. Double knot and make a wish when tying.</p>
+<p>Each necklace is approximately 95cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4958199087167</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2900.00</s:price>
+      <s:sku>CB-LUCKY NECKLACE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+</feed>

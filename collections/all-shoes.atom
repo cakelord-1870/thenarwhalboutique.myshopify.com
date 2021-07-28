@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thenarwhalboutique.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thenarwhalboutique.myshopify.com/collections/all-shoes.atom"/>
+  <title>The Narwhal</title>
+  <updated>2021-07-14T21:56:30-05:00</updated>
+  <author>
+    <name>The Narwhal</name>
+  </author>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6675947388991</id>
+    <published>2021-07-14T21:56:30-05:00</published>
+    <updated>2021-07-14T21:56:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/single-stack-chelsea-boot-in-brown-suede"/>
+    <title>SINGLE STACK CHELSEA BOOT IN BROWN SUEDE</title>
+    <s:type>BOOTS</s:type>
+    <s:vendor>R13</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/rthir2106511864_1625701021320_2-0.jpg?v=1626317791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>R13<br>
+        <strong>Type: </strong>BOOTS<br>
+        <strong>Price: </strong>
+            1595.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The single stack chelsea boot by R13.</p>
+<ul>
+<li>Details: Suede upper, rubber sole, zip at back, elastic sides, round tow</li>
+<li>Material : 100% italian suede</li>
+<li>1.5" stacked platform</li>
+<li>True to size, available in whole sizes only</li>
+<li>Made in Italy</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>R13</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6675947388991</id>
+      <title>36</title>
+      <s:price currency="CAD">1595.00</s:price>
+      <s:sku>R13-SINGLE STACK CHELSEA BOOTS-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6675947388991</id>
+      <title>37</title>
+      <s:price currency="CAD">1595.00</s:price>
+      <s:sku>R13-SINGLE STACK CHELSEA BOOTS-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6675947388991</id>
+      <title>38</title>
+      <s:price currency="CAD">1595.00</s:price>
+      <s:sku>R13-SINGLE STACK CHELSEA BOOTS-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6675947388991</id>
+      <title>39</title>
+      <s:price currency="CAD">1595.00</s:price>
+      <s:sku>R13-SINGLE STACK CHELSEA BOOTS-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6675947388991</id>
+      <title>40</title>
+      <s:price currency="CAD">1595.00</s:price>
+      <s:sku>R13-SINGLE STACK CHELSEA BOOTS-5</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6668898762815</id>
+    <published>2021-07-07T19:15:37-05:00</published>
+    <updated>2021-07-07T19:15:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/nowly-snow-boots"/>
+    <title>NOWLY SNOW BOOTS IN CAMEL</title>
+    <s:type>BOOTS</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ismdb306351a3ac_1624312709663_2-0.jpg?v=1625704369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>BOOTS<br>
+        <strong>Price: </strong>
+            985.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Isabel Marant's 'Derst' boots are made from smooth suede and have sleek pointed toes. Set on low conical heels, they're perfect for wearing with everything from distressed jeans to flowy midi skirts.</span></p>
+<ul>
+<li>Details: Fold down collar, chikka boots, lace up closure, rubber sole, additional laces included, hidden wedge</li>
+<li>Material: Cowhide + Dyed sheep shearling</li>
+<li>Item fits true to size, available in whole sizes only, if you wear a half size go up to the next whole size</li>
+<li>Heel Height: Platform is 1", Heel height is 2"</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668898762815</id>
+      <title>36</title>
+      <s:price currency="CAD">985.00</s:price>
+      <s:sku>IM-PF21-NOWLY BOOTS IN CAMEL-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668898762815</id>
+      <title>37</title>
+      <s:price currency="CAD">985.00</s:price>
+      <s:sku>IM-PF21-NOWLY BOOTS IN CAMEL-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668898762815</id>
+      <title>38</title>
+      <s:price currency="CAD">985.00</s:price>
+      <s:sku>IM-PF21-NOWLY BOOTS IN CAMEL-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668898762815</id>
+      <title>39</title>
+      <s:price currency="CAD">985.00</s:price>
+      <s:sku>IM-PF21-NOWLY BOOTS IN CAMEL-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668898762815</id>
+      <title>40</title>
+      <s:price currency="CAD">985.00</s:price>
+      <s:sku>IM-PF21-NOWLY BOOTS IN CAMEL-5</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6668894404671</id>
+    <published>2021-07-07T19:06:18-05:00</published>
+    <updated>2021-07-07T19:06:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/derst-boots-in-black-suede"/>
+    <title>DERST BOOTS IN BLACK SUEDE</title>
+    <s:type>BOOTS</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/w2000_q80-1.jpg?v=1625704440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>BOOTS<br>
+        <strong>Price: </strong>
+            720.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Isabel Marant's 'Derst' boots are made from smooth suede and have sleek pointed toes. Set on low conical heels, they're perfect for wearing with everything from distressed jeans to flowy midi skirts.</span></p>
+<ul>
+<li>Details: Zip fastening along side, pointed toe, kitten heel</li>
+<li>Material: 100% calfskin leather</li>
+<li>Item fits true to size, available in whole sizes only, if you wear a half size go up to the next whole size</li>
+<li>Heel Height: 2"</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668894404671</id>
+      <title>35</title>
+      <s:price currency="CAD">720.00</s:price>
+      <s:sku>IM-PF21-DERST BOOTS-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668894404671</id>
+      <title>36</title>
+      <s:price currency="CAD">720.00</s:price>
+      <s:sku>IM-PF21-DERST BOOTS-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668894404671</id>
+      <title>37</title>
+      <s:price currency="CAD">720.00</s:price>
+      <s:sku>IM-PF21-DERST BOOTS-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668894404671</id>
+      <title>38</title>
+      <s:price currency="CAD">720.00</s:price>
+      <s:sku>IM-PF21-DERST BOOTS-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668894404671</id>
+      <title>39</title>
+      <s:price currency="CAD">720.00</s:price>
+      <s:sku>IM-PF21-DERST BOOTS-5</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668894404671</id>
+      <title>40</title>
+      <s:price currency="CAD">720.00</s:price>
+      <s:sku>IM-PF21-DERST BOOTS-6</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6668893782079</id>
+    <published>2021-07-07T19:05:23-05:00</published>
+    <updated>2021-07-07T19:05:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/limza-boots-in-black-suede"/>
+    <title>LIMZA BOOTS IN BLACK SUEDE</title>
+    <s:type>BOOTS</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ismdb304111071b_q1_2-0.jpg?v=1625704551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>BOOTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velvet leather point toe boots.</p>
+<ul>
+<li>Details: Pointed toe, metal cap toe and heel</li>
+<li>Material: 100% calfskin leather</li>
+<li>Item fits true to size, available in whole sizes only, if you wear a half size go up to the next whole size</li>
+<li>Heel Height: 7.5cm / 3"</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668893782079</id>
+      <title>36</title>
+      <s:price currency="CAD">1490.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668893782079</id>
+      <title>37</title>
+      <s:price currency="CAD">1490.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668893782079</id>
+      <title>38</title>
+      <s:price currency="CAD">1490.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668893782079</id>
+      <title>39</title>
+      <s:price currency="CAD">1490.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668893782079</id>
+      <title>40</title>
+      <s:price currency="CAD">1490.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668893782079</id>
+      <title>41</title>
+      <s:price currency="CAD">1490.00</s:price>
+      <s:sku/>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6668891422783</id>
+    <published>2021-07-07T19:01:36-05:00</published>
+    <updated>2021-07-07T19:01:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/limza-boots-in-taupe-suede"/>
+    <title>LIMZA BOOTS IN TAUPE SUEDE</title>
+    <s:type>BOOTS</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/11912472df_23_f.jpg?v=1625702497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>BOOTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velvet leather point toe boots.</p>
+<ul>
+<li>Details: Pointed toe, metal cap toe and heel</li>
+<li>Material: 100% calfskin leather</li>
+<li>Item fits true to size, available in whole sizes only, if you wear a half size go up to the next whole size</li>
+<li>Heel Height: 7.5cm / 3"</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668891422783</id>
+      <title>36</title>
+      <s:price currency="CAD">1490.00</s:price>
+      <s:sku>IM-PF21-LIMZA BOOTS-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668891422783</id>
+      <title>37</title>
+      <s:price currency="CAD">1490.00</s:price>
+      <s:sku>IM-PF21-LIMZA BOOTS-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668891422783</id>
+      <title>38</title>
+      <s:price currency="CAD">1490.00</s:price>
+      <s:sku>IM-PF21-LIMZA BOOTS-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668891422783</id>
+      <title>39</title>
+      <s:price currency="CAD">1490.00</s:price>
+      <s:sku>IM-PF21-LIMZA BOOTS-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668891422783</id>
+      <title>40</title>
+      <s:price currency="CAD">1490.00</s:price>
+      <s:sku>IM-PF21-LIMZA BOOTS-5</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6668891422783</id>
+      <title>41</title>
+      <s:price currency="CAD">1490.00</s:price>
+      <s:sku>IM-PF21-LIMZA BOOTS-6</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6666782867519</id>
+    <published>2021-07-05T19:58:13-05:00</published>
+    <updated>2021-07-05T19:58:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/yosemite-socks-in-neon-yellow"/>
+    <title>YOSEMITE SOCKS IN NEON YELLOW</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>THE ELDER STATESMAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/2d75087b3d94f1686855f3cbdc47c0fc.jpg?v=1625533103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THE ELDER STATESMAN<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            215.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The chunky, everyday cashmere sock by The Elder Statesman.<br></p>
+<ul>
+<li>Details: Heavy weight knit, relaxed cozy fit</li>
+<li>Material: 100% cashmere</li>
+<li>Dry clean only</li>
+<li>Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>THE ELDER STATESMAN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6666782867519</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">215.00</s:price>
+      <s:sku>TES-PF21-YOSEMITE SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6666782113855</id>
+    <published>2021-07-05T19:56:47-05:00</published>
+    <updated>2021-07-05T19:56:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/yosemite-socks-in"/>
+    <title>YOSEMITE SOCKS IN GECKO</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>THE ELDER STATESMAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/f8589da362f8e7db1f0cb5ba603e394e.jpg?v=1625533039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THE ELDER STATESMAN<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            215.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The chunky, everyday cashmere sock by The Elder Statesman.<br></p>
+<ul>
+<li>Details: Heavy weight knit, relaxed cozy fit</li>
+<li>Material: 100% cashmere</li>
+<li>Dry clean only</li>
+<li>Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>THE ELDER STATESMAN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6666782113855</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">215.00</s:price>
+      <s:sku>TES-PF21-YOSEMITE SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6666781294655</id>
+    <published>2021-07-05T19:55:51-05:00</published>
+    <updated>2021-07-05T19:55:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/yosemite-socks-in-tangelo"/>
+    <title>YOSEMITE SOCKS IN TANGELO</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>THE ELDER STATESMAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/613fe366ee2f9a483a189e0bf3c20263.jpg?v=1625532982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THE ELDER STATESMAN<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            215.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The chunky, everyday cashmere sock by The Elder Statesman.<br></p>
+<ul>
+<li>Details: Heavy weight knit, relaxed cozy fit</li>
+<li>Material: 100% cashmere</li>
+<li>Dry clean only</li>
+<li>Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>THE ELDER STATESMAN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6666781294655</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">215.00</s:price>
+      <s:sku>TES-PF21-YOSEMITE SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6666781196351</id>
+    <published>2021-07-05T19:54:59-05:00</published>
+    <updated>2021-07-05T19:54:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/copy-of-yosemite-socks-in-cigar"/>
+    <title>YOSEMITE SOCKS IN GREY</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>THE ELDER STATESMAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/imagecomingsoon_9a442005-f1fe-421c-a4b8-adb18e49bfc2.jpg?v=1625532934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THE ELDER STATESMAN<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            215.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The chunky, everyday cashmere sock by The Elder Statesman.<br></p>
+<ul>
+<li>Details: Heavy weight knit, relaxed cozy fit</li>
+<li>Material: 100% cashmere</li>
+<li>Dry clean only</li>
+<li>Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>THE ELDER STATESMAN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6666781196351</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">215.00</s:price>
+      <s:sku>TES-PF21-YOSEMITE SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6666780672063</id>
+    <published>2021-07-05T19:54:23-05:00</published>
+    <updated>2021-07-05T19:54:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/yosemite-socks-in-cigar"/>
+    <title>YOSEMITE SOCKS IN CIGAR</title>
+    <s:type>SOCKS</s:type>
+    <s:vendor>THE ELDER STATESMAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/153b8ec4238343599f7b901ddf60f547.jpg?v=1625532863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THE ELDER STATESMAN<br>
+        <strong>Type: </strong>SOCKS<br>
+        <strong>Price: </strong>
+            215.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The chunky, everyday cashmere sock by The Elder Statesman.<br></p>
+<ul>
+<li>Details: Heavy weight knit, relaxed cozy fit</li>
+<li>Material: 100% cashmere</li>
+<li>Dry clean only</li>
+<li>Made in Los Angeles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>THE ELDER STATESMAN</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6666780672063</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">215.00</s:price>
+      <s:sku>TES-PF21-YOSEMITE SOCKS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6631374258239</id>
+    <published>2021-05-26T11:50:04-05:00</published>
+    <updated>2021-05-26T11:50:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/glitter-slide-sneakers"/>
+    <title>GLITTER SLIDE SNEAKERS IN SILVER</title>
+    <s:type>SNEAKER</s:type>
+    <s:vendor>GOLDEN GOOSE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_6620.jpg?v=1622047806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GOLDEN GOOSE<br>
+        <strong>Type: </strong>SNEAKER<br>
+        <strong>Price: </strong>
+            725.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The slip on sneaks of your dreams! Updated this season in silver glitter.</p>
+<ul>
+<li>Details: Slip on style, glitter finish, white star</li>
+<li>Material: Leather upper, rubber sole</li>
+<li>Item fits true to size, available in whole sizes only</li>
+<li>Made in Italy</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GOLDEN GOOSE</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631374258239</id>
+      <title>36</title>
+      <s:price currency="CAD">725.00</s:price>
+      <s:sku>GG-PF21-GLITTER SLIP ON SNEAKS-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631374258239</id>
+      <title>37</title>
+      <s:price currency="CAD">725.00</s:price>
+      <s:sku>GG-PF21-GLITTER SLIP ON SNEAKS-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631374258239</id>
+      <title>38</title>
+      <s:price currency="CAD">725.00</s:price>
+      <s:sku>GG-PF21-GLITTER SLIP ON SNEAKS-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631374258239</id>
+      <title>39</title>
+      <s:price currency="CAD">725.00</s:price>
+      <s:sku>GG-PF21-GLITTER SLIP ON SNEAKS-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6631374258239</id>
+      <title>40</title>
+      <s:price currency="CAD">725.00</s:price>
+      <s:sku>GG-PF21-GLITTER SLIP ON SNEAKS-5</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6608145875007</id>
+    <published>2021-04-28T10:39:32-05:00</published>
+    <updated>2021-04-28T10:39:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/coco-snake-flip-flop"/>
+    <title>COCO SNAKE FLIP FLOP</title>
+    <s:type>SANDAL</s:type>
+    <s:vendor>TKEES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/animal-print_coco-snake_pair_1800x1800_a4b89123-71ae-47fa-ae37-3b5e2bd780e4.jpg?v=1619624856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TKEES<br>
+        <strong>Type: </strong>SANDAL<br>
+        <strong>Price: </strong>
+            86.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">Classic snakeskin with caramel undertones. A striking way to wear neutrals.</div>
+<div data-mce-fragment="1">
+<span data-mce-fragment="1"></span><br data-mce-fragment="1">
+</div>
+<div data-mce-fragment="1">Materials:</div>
+<div data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span color="#000000" face="Arial" data-mce-fragment="1">Vegan Leather Upper</span></li>
+<li data-mce-fragment="1"><span color="#000000" face="Arial" data-mce-fragment="1">Vegan Leather Insole</span></li>
+<li data-mce-fragment="1"><span color="#000000" face="Arial" data-mce-fragment="1">Rubber Outsole</span></li>
+<li data-mce-fragment="1"><span color="#000000" face="Arial" data-mce-fragment="1">Made in Brazil</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRE-SPRING 2021</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>TKEES</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6608145875007</id>
+      <title>6</title>
+      <s:price currency="CAD">86.00</s:price>
+      <s:sku>TKEES-COCO SNAKE-1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6608145875007</id>
+      <title>7</title>
+      <s:price currency="CAD">86.00</s:price>
+      <s:sku>TKEES-COCO SNAKE-2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6608145875007</id>
+      <title>8</title>
+      <s:price currency="CAD">86.00</s:price>
+      <s:sku>TKEES-COCO SNAKE-3</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6608145875007</id>
+      <title>9</title>
+      <s:price currency="CAD">86.00</s:price>
+      <s:sku>TKEES-COCO SNAKE-4</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6608145875007</id>
+      <title>10</title>
+      <s:price currency="CAD">86.00</s:price>
+      <s:sku>TKEES-COCO SNAKE-5</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6577523687487</id>
+    <published>2021-03-30T15:14:15-05:00</published>
+    <updated>2021-03-30T15:14:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-trekky-sandal-in-flynn"/>
+    <title>TREKKY SANDAL  IN FLYNN</title>
+    <s:type>SANDAL</s:type>
+    <s:vendor>XIRENA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/AX11901_Fynn_1_1024x.progressive_5d921dd6-bffe-41e3-a130-9edecd4bbf28.jpg?v=1617135256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XIRENA<br>
+        <strong>Type: </strong>SANDAL<br>
+        <strong>Price: </strong>
+            87.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Introducing the XÍRENA x Arizona Love Trekky Sandals in Fynn (Fire + Water). Put your best foot forward in these exclusive cotton gauze mix and match prints from our Spring 2021 collection. Handmade and handcrafted with adjustable velcro ankle straps and soft cushion soles.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Fit &amp; Sizing</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Foot notes... whole sizes only. Fit runs small. We say take one size up (or two for half sizes).</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Fabric &amp; Care</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Wrap It Up - AX11901</span><br data-mce-fragment="1">100% EVA soles. 100% Cotton upper. 100% Polyester thread. Spot clean only.</p>
+<p data-mce-fragment="1">Designed in Los Angeles.</p>
+<p data-mce-fragment="1"><em><strong>*all sale items are final sale*</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ARIZONA LOVE</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6577523687487</id>
+      <title>36</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>XI-SS21-TREKKY-1</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6577523687487</id>
+      <title>37</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>XI-SS21-TREKKY-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6577523687487</id>
+      <title>38</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>XI-SS21-TREKKY-3</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6577523687487</id>
+      <title>39</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>XI-SS21-TREKKY-4</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6577523687487</id>
+      <title>40</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>XI-SS21-TREKKY-5</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6550783852607</id>
+    <published>2021-03-08T20:12:35-06:00</published>
+    <updated>2021-03-08T20:12:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/rubber-city-boot-in-black"/>
+    <title>RUBBER CITY BOOT IN BLACK</title>
+    <s:type>BOOTS</s:type>
+    <s:vendor>GANNI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/gannirubbercityboot.jpg?v=1622814207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GANNI<br>
+        <strong>Type: </strong>BOOTS<br>
+        <strong>Price: </strong>
+            345.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Recycled rubber ankle boots with elastic chelsea-style panels and tab details. Style with a hooded knit and mini skirt. These boots are made from a blend of recycled rubber and are not water proof. </span><br data-mce-fragment="1"><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Fit true to size</li>
+<li data-mce-fragment="1">Comfortable, 4 cm platform/flat sole</li>
+<li data-mce-fragment="1">Chunky, ribbed, rubber soles</li>
+<li data-mce-fragment="1">Round toe</li>
+<li data-mce-fragment="1">Chelsea style, slip on with elastic and front/back pull-tabs</li>
+<li data-mce-fragment="1">Matte, leather-look 50% recycled rubber + 50% rubber material</li>
+<li data-mce-fragment="1">Made in Portugal</li>
+</ul>
+<br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">50% RECYCLED RUBBER </span><br data-mce-fragment="1"><span data-mce-fragment="1">These styles are made from 50% pre-consumer recycled rubber – the scraps and cut-offs from the production of rubber shoes. </span><br data-mce-fragment="1"><span data-mce-fragment="1">Pre-consumer means the elements that would usually be treated as waste, are reused in production again.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GANNI</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6550783852607</id>
+      <title>36</title>
+      <s:price currency="CAD">345.00</s:price>
+      <s:sku>GA-SS21-RUBBER CITY BOOT-1</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6550783852607</id>
+      <title>37</title>
+      <s:price currency="CAD">345.00</s:price>
+      <s:sku>GA-SS21-RUBBER CITY BOOT-2</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6550783852607</id>
+      <title>38</title>
+      <s:price currency="CAD">345.00</s:price>
+      <s:sku>GA-SS21-RUBBER CITY BOOT-3</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6550783852607</id>
+      <title>39</title>
+      <s:price currency="CAD">345.00</s:price>
+      <s:sku>GA-SS21-RUBBER CITY BOOT-4</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6550783852607</id>
+      <title>40</title>
+      <s:price currency="CAD">345.00</s:price>
+      <s:sku>GA-SS21-RUBBER CITY BOOT-5</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6550783852607</id>
+      <title>41</title>
+      <s:price currency="CAD">345.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+    <published>2021-03-03T10:24:25-06:00</published>
+    <updated>2021-03-03T10:24:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/the-narwhal-gift-card"/>
+    <title>THE NARWHAL GIFT CARD</title>
+    <s:type>GIFT CARD</s:type>
+    <s:vendor>The Narwhal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/GIFTCARDIMAGE.jpg?v=1614788788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Narwhal<br>
+        <strong>Type: </strong>GIFT CARD<br>
+        <strong>Price: </strong>
+            75.00 - 2000.00
+            <a href="https://thenarwhalboutique.myshopify.com/products/the-narwhal-gift-card">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A GIFT CARD TO YOUR FAVOURITE SHOP :)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GIFT CARD</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$75.00</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$150.00</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$200.00</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$300.00</title>
+      <s:price currency="CAD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$400.00</title>
+      <s:price currency="CAD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$500.00</title>
+      <s:price currency="CAD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$750.00</title>
+      <s:price currency="CAD">750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$1,000.00</title>
+      <s:price currency="CAD">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$1,250.00</title>
+      <s:price currency="CAD">1250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$1,500.00</title>
+      <s:price currency="CAD">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$1,750.00</title>
+      <s:price currency="CAD">1750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$2,000.00</title>
+      <s:price currency="CAD">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6539053596735</id>
+    <published>2021-02-26T19:46:58-06:00</published>
+    <updated>2021-02-26T19:46:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/90s-sustainable-skate-shoe"/>
+    <title>90&apos;s SUSTAINABLE SKATE SHOE</title>
+    <s:type>SNEAKER</s:type>
+    <s:vendor>RE/DINE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/290-14W9SKSH90SSUSTAINABLESKATESHOE_4_1080x_c0b86725-531f-4a5b-bc64-90d5919815d1.jpg?v=1614390420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RE/DINE<br>
+        <strong>Type: </strong>SNEAKER<br>
+        <strong>Price: </strong>
+            157.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">The 90s Sustainable Skate Shoe is inspired by the decade’s most iconic subculture, constructed from entirely sustainable materials. </span></p>
+<ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Leather and suede alternative made from 100% recycled nylon</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Soles made from recycled rubber compound</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Zinc-free eyelets</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Organic cotton laces</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Handmade in Italy</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Vegan</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Fits true to size<br></span></li>
+</ul>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"><em><strong>*all sale items are final sale*</strong></em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>RE/DONE</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6539053596735</id>
+      <title>35</title>
+      <s:price currency="CAD">157.50</s:price>
+      <s:sku>RD-PS21-90S SNEAKER-1</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6539053596735</id>
+      <title>36</title>
+      <s:price currency="CAD">157.50</s:price>
+      <s:sku>RD-PS21-90S SNEAKER-2</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6539053596735</id>
+      <title>37</title>
+      <s:price currency="CAD">157.50</s:price>
+      <s:sku>RD-PS21-90S SNEAKER-3</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6539053596735</id>
+      <title>38</title>
+      <s:price currency="CAD">157.50</s:price>
+      <s:sku>RD-PS21-90S SNEAKER-4</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6539053596735</id>
+      <title>39</title>
+      <s:price currency="CAD">157.50</s:price>
+      <s:sku>RD-PS21-90S SNEAKER-5</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6539053596735</id>
+      <title>40</title>
+      <s:price currency="CAD">157.50</s:price>
+      <s:sku>RD-PS21-90S SNEAKER-6</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/4948413612095</id>
+    <published>2021-02-12T08:15:06-06:00</published>
+    <updated>2021-02-12T08:15:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/lorey-boots-in-ecru"/>
+    <title>LOREY BOOTS IN ECRU</title>
+    <s:type>BOOTS</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/17003480mr_24_r.jpg?v=1612957283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>BOOTS<br>
+        <strong>Price: </strong>
+            477.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Jaquard boots in cotton and leather.<br data-mce-fragment="1"></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Details: Knee high, slouch style, almond toe, will relax with wear</li>
+<li data-mce-fragment="1">Material: 100% cotton, Calfskin leather</li>
+<li data-mce-fragment="1">Heel measures approx. 6cm/2.4"</li>
+<li data-mce-fragment="1">Item fits true to size, size up if you wear a half size</li>
+<li data-mce-fragment="1">Available in whole sizes only</li>
+<li data-mce-fragment="1">Imported</li>
+</ul>
+<p><em><strong>*all sale items are final sale*</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4948413612095</id>
+      <title>36</title>
+      <s:price currency="CAD">477.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4948413612095</id>
+      <title>37</title>
+      <s:price currency="CAD">477.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4948413612095</id>
+      <title>38</title>
+      <s:price currency="CAD">477.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4948413612095</id>
+      <title>39</title>
+      <s:price currency="CAD">477.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4948413612095</id>
+      <title>40</title>
+      <s:price currency="CAD">477.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/4949122089023</id>
+    <published>2021-02-12T08:15:05-06:00</published>
+    <updated>2021-02-12T08:15:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/malay-sandals-in-green"/>
+    <title>MALAY SANDALS IN GREEN</title>
+    <s:type>SANDAL</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ismdb30495178b6_q3_2-0.jpg?v=1617117468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>SANDAL<br>
+        <strong>Price: </strong>
+            214.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">A festive take on classic strappy sandals from Isabel Marant, rendered in an eye-catching color scheme and featuring a jute-wrapped platform.</span><br></p>
+<ul class="bulleted-attributes">
+<li>Details: Woven straps and ankle wrap tie, rigid leather footbed, braided jute platform, open toe</li>
+<li>Leather sole with rubber patch</li>
+<li>Made in Portugal</li>
+</ul>
+<p><em><strong>*all sale items are final sale*</strong></em></p>
+<div class="product-code"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4949122089023</id>
+      <title>36</title>
+      <s:price currency="CAD">214.50</s:price>
+      <s:sku>IM-PS21-MALAY-1</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4949122089023</id>
+      <title>37</title>
+      <s:price currency="CAD">214.50</s:price>
+      <s:sku>IM-PS21-MALAY-2</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4949122089023</id>
+      <title>38</title>
+      <s:price currency="CAD">214.50</s:price>
+      <s:sku>IM-PS21-MALAY-3</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4949122089023</id>
+      <title>39</title>
+      <s:price currency="CAD">214.50</s:price>
+      <s:sku>IM-PS21-MALAY-4</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4949122089023</id>
+      <title>40</title>
+      <s:price currency="CAD">214.50</s:price>
+      <s:sku>IM-PS21-MALAY-5</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4949122089023</id>
+      <title>35</title>
+      <s:price currency="CAD">214.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/4949132771391</id>
+    <published>2021-02-12T08:15:03-06:00</published>
+    <updated>2021-02-12T08:15:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/espa-sandals-in-blue"/>
+    <title>ESPA SANDALS IN BLUE</title>
+    <s:type>SANDAL</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/isabel-marant-espa-flat-rope-sandals.jpg?v=1613099389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>SANDAL<br>
+        <strong>Price: </strong>
+            197.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p class="attributesUpdater editorialdescription" data-ytos-ctrl="item.attributesUpdater" data-ytos-opt='{"options":{"attributeName":"editorialdescription","enableAjaxUpdateOnColorChange":true,"enableSelfVisibilityCheck":false}}' data-ytos-scope="17009684ts" data-ytos-ver="1.0.4" data-mce-fragment="1"><span class="value" data-mce-fragment="1">Rope sandals in cotton by Isabel Marant.</span></p>
+<ul>
+<li>100% cotton</li>
+<li>Item fits true to size, available in whole sizes only, if you wear a half size go to the next full size</li>
+<li>Imported</li>
+</ul>
+<p><em><strong>*all sale items are final sale*</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4949132771391</id>
+      <title>36</title>
+      <s:price currency="CAD">197.50</s:price>
+      <s:sku>IM-PS21-ESPA SANDAL-1</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4949132771391</id>
+      <title>37</title>
+      <s:price currency="CAD">197.50</s:price>
+      <s:sku>IM-PS21-ESPA SANDAL-2</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4949132771391</id>
+      <title>38</title>
+      <s:price currency="CAD">197.50</s:price>
+      <s:sku>IM-PS21-ESPA SANDAL-3</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4949132771391</id>
+      <title>39</title>
+      <s:price currency="CAD">197.50</s:price>
+      <s:sku>IM-PS21-ESPA SANDAL-4</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4949132771391</id>
+      <title>40</title>
+      <s:price currency="CAD">197.50</s:price>
+      <s:sku>IM-PS21-ESPA SANDAL-5</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/4950248554559</id>
+    <published>2021-02-12T08:14:35-06:00</published>
+    <updated>2021-02-12T08:14:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/copy-of-pre-order-trekky-sandals-in-tie-dye-bandana"/>
+    <title>TREKKY SANDALS IN CERULEAN BANDANA</title>
+    <s:type>SANDAL</s:type>
+    <s:vendor>ARIZONA LOVE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/CERULEAN_01_copie.png?v=1613098096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ARIZONA LOVE<br>
+        <strong>Type: </strong>SANDAL<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong><em>THIS ARTICLE FITTING IS SMALL. IT IS NECESSARY TO TAKE ONE SIZE UP.</em></strong></h3>
+<p class=""><strong>TREKKY CERULEAN BANDANA</strong></p>
+<p class="">Style details:</p>
+<ul data-rte-list="default">
+<li>
+<p class="">thread : 100% polyester</p>
+</li>
+<li>
+<p class="">sole : EVA - height 1,5cm/2,5cm</p>
+</li>
+<li>
+<p class="">made in PRC</p>
+</li>
+<li>
+<p class="">100% cotton bandana</p>
+</li>
+</ul>
+<p class="">Those trekky are handmade and handcrafted. All upper parts of the trekky models are made from recycled plastic bottles - REPREVE label.</p>
+<p class=""><strong>Measurements</strong>: Length of the sole</p>
+<p class="">36/23,5cm - 37/24,5cm - 38/25cm - 39/25,5cm - 40/26,5cm - 41/27cm - 42/27,5cm</p>
+<p class=""><em><strong>*all sale items are final sale*</strong></em></p>
+<h3><strong><em></em></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ARIZONA LOVE</s:tag>
+    <s:tag>SALE</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4950248554559</id>
+      <title>36</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4950248554559</id>
+      <title>37</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4950248554559</id>
+      <title>38</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4950248554559</id>
+      <title>39</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4950248554559</id>
+      <title>40</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/4950248554559</id>
+      <title>41</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+</feed>

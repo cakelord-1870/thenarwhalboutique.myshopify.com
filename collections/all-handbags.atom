@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thenarwhalboutique.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thenarwhalboutique.myshopify.com/collections/all-handbags.atom"/>
+  <title>The Narwhal</title>
+  <updated>2021-07-25T13:51:40-05:00</updated>
+  <author>
+    <name>The Narwhal</name>
+  </author>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6684660203583</id>
+    <published>2021-07-25T13:51:40-05:00</published>
+    <updated>2021-07-25T13:51:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/nettie-pouch-in-black-floral"/>
+    <title>NETTIA POUCH IN BLACK FLORAL</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/isabel-marant-nettia-floral-print-cotton-clutch_16943002_33893951_1000.jpg?v=1627239120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton logo pouch by Isabel Marant.</p>
+<ul class="bulleted-attributes">
+<li>Details: Floral print, velvet logo aplique, zip closure, unlined</li>
+<li>Fabric: Canvas</li>
+<li>Floral print</li>
+<li>Measurements: 8" High x 9.75" Length</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684660203583</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku>IM-PF21-NETTIA POUCH</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6684658925631</id>
+    <published>2021-07-25T13:49:05-05:00</published>
+    <updated>2021-07-25T13:49:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/nettie-pouch-in-black-and-yellow"/>
+    <title>NETTIA POUCH IN BLACK AND YELLOW</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ismdb306641a694_1626898288113_2-0.jpg?v=1627238946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton logo pouch by Isabel Marant.</p>
+<ul class="bulleted-attributes">
+<li>Details: Floral print, velvet logo aplique, zip closure, unlined</li>
+<li>Fabric: Canvas</li>
+<li>Floral print</li>
+<li>Measurements: 8" High x 9.75" Length</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684658925631</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku>IM-PF21-NETTIA POUCH</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6684654108735</id>
+    <published>2021-07-25T13:37:44-05:00</published>
+    <updated>2021-07-25T13:37:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/warden-bag-in-black-pink"/>
+    <title>WARDEN BAG IN BLACK/PINK</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/16974709_34008040_600.jpg?v=1627238495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            335.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="value">Weekend bag in nylon with "Marant" logo on the front.</span></p>
+<ul>
+<li>Details: Two woven cotton handles, front slit pockets</li>
+<li><span>Dimension : 75 x 45 x 30 cm</span></li>
+<li>100% Nylon, Polyester, Polypropylene</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684654108735</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">335.00</s:price>
+      <s:sku>IM-PF21-WARDEN BAG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6684652732479</id>
+    <published>2021-07-25T13:34:35-05:00</published>
+    <updated>2021-07-25T13:34:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/warden-bag-in-blue-pink"/>
+    <title>WARDEN BAG IN BLUE/PINK</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ismdb3064213432_1626276133443_2-0.jpg?v=1627238198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            335.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="value">Weekend bag in nylon with "Marant" logo on the front.</span></p>
+<ul>
+<li>Details: Two woven cotton handles, front slit pockets</li>
+<li><span>Dimension : 75 x 45 x 30 cm</span></li>
+<li>100% Nylon, Polyester, Polypropylene</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684652732479</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">335.00</s:price>
+      <s:sku>IM-PF21-WARDEN BAG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6684652699711</id>
+    <published>2021-07-25T13:34:09-05:00</published>
+    <updated>2021-07-25T13:34:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/powden-pouch-in-blue-prink"/>
+    <title>POWDEN POUCH IN BLUE/PINK</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/1421257_3.jpg?v=1627238050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="value">Pouch in nylon with "Marant" logo on the front.</span></p>
+<ul>
+<li>Details: Zip fastening</li>
+<li>Dimension : 31 x 18 x 9 cm</li>
+<li>100% Nylon, Polyester, Polypropylene</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684652699711</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">165.00</s:price>
+      <s:sku>IM-PF21-POWDEN POUCH</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6672734453823</id>
+    <published>2021-07-11T12:52:57-05:00</published>
+    <updated>2021-07-11T12:52:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/darwen-tote-in-black-ecru"/>
+    <title>DARWEN TOTE IN BLACK/ECRU</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ISAB-WY71_V12.jpg?v=1626026012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The darwen tote by Isabel Marant.</p>
+<ul class="u-margin-l--lg">
+<li>Details: Double canvas handles, exterior welt pockets at front and back, logo print detail on front</li>
+<li>Material: Unlined durable nylon</li>
+<li>Measures approx 15.5" high, 12" wide, 8" deep</li>
+<li>Double canvas handles measures approx 22" x 9" drop</li>
+<li>Made in Portugal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6672734453823</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">245.00</s:price>
+      <s:sku>IM-PF21-WARDEN TOTE</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6672733831231</id>
+    <published>2021-07-11T12:52:08-05:00</published>
+    <updated>2021-07-11T12:52:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/darwen-tote-in-pink-ecru"/>
+    <title>DARWEN TOTE IN PINK/ECRU</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>ISABEL MARANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ISAB-WY61_V1.jpg?v=1626025929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ISABEL MARANT<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The darwen tote by Isabel Marant.</p>
+<ul class="u-margin-l--lg">
+<li>Details: Double canvas handles, exterior welt pockets at front and back, logo print detail on front</li>
+<li>Material: Unlined durable nylon</li>
+<li>Measures approx 15.5" high, 12" wide, 8" deep</li>
+<li>Double canvas handles measures approx 22" x 9" drop</li>
+<li>Made in Portugal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FALL 2021</s:tag>
+    <s:tag>ISABEL MARANT</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6672733831231</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">245.00</s:price>
+      <s:sku>IM-PF21-WARDEN TOTE</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6617007194175</id>
+    <published>2021-05-08T13:25:41-05:00</published>
+    <updated>2021-05-08T13:25:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/recycled-tech-fabric-drawstring-bag-in-leopard"/>
+    <title>RECYCLED TECH FABRIC DRAWSTRING BAG IN LEOPARD</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>GANNI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_7468.jpg?v=1622813339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GANNI<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Drawstring pouch bag in recycled tech fabric. Hang on your wrist or shoulder. </span><br data-mce-fragment="1"><span data-mce-fragment="1">100% RECYCLED POLYESTER </span><br data-mce-fragment="1"><span data-mce-fragment="1">This piece is made of 100% certified recycled polyester. Using recycled polyester reduces dependence on petroleum as a raw material and can divert plastic from ending in landfills. </span><br data-mce-fragment="1"><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">45x34x20cm</li>
+<li data-mce-fragment="1">Zip pocket on front</li>
+<li data-mce-fragment="1">Slightly stiff, round base</li>
+<li data-mce-fragment="1">Drawstring closure with string handles</li>
+<li data-mce-fragment="1">Adjustable strap</li>
+<li data-mce-fragment="1">GANNI logo zipper pull</li>
+<li data-mce-fragment="1">Inside side pocket for phone</li>
+<li data-mce-fragment="1">Resistant tech nylon fabric</li>
+<li data-mce-fragment="1">Fully lined</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GANNI</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6617007194175</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">350.00</s:price>
+      <s:sku>GA-PF21-DRAWSTRING TOTE</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6617004015679</id>
+    <published>2021-05-08T13:18:11-05:00</published>
+    <updated>2021-05-08T13:18:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/copy-of-tech-shoulder-bag-in-phantom"/>
+    <title>RECYCLED TECH FABRIC DRAWSTRING BAG IN PHANTOM</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>GANNI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/A3444_5669_252.jpg?v=1620498301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GANNI<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Drawstring pouch bag in recycled tech fabric. Hang on your wrist or shoulder. </span><br data-mce-fragment="1"><span data-mce-fragment="1">100% RECYCLED POLYESTER </span><br data-mce-fragment="1"><span data-mce-fragment="1">This piece is made of 100% certified recycled polyester. Using recycled polyester reduces dependence on petroleum as a raw material and can divert plastic from ending in landfills. </span><br data-mce-fragment="1"><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">45x34x20cm</li>
+<li data-mce-fragment="1">Zip pocket on front</li>
+<li data-mce-fragment="1">Slightly stiff, round base</li>
+<li data-mce-fragment="1">Drawstring closure with string handles</li>
+<li data-mce-fragment="1">Adjustable strap</li>
+<li data-mce-fragment="1">GANNI logo zipper pull</li>
+<li data-mce-fragment="1">Inside side pocket for phone</li>
+<li data-mce-fragment="1">Resistant tech nylon fabric</li>
+<li data-mce-fragment="1">Fully lined</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GANNI</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6617004015679</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">350.00</s:price>
+      <s:sku>GA-PF21-DRAWSTRING TOTE</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6617003491391</id>
+    <published>2021-05-08T13:18:05-05:00</published>
+    <updated>2021-05-08T13:18:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/tech-shoulder-bag-in-phantom"/>
+    <title>TECH SHOULDER BAG IN PHANTOM</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>GANNI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/A3380_5669_252.jpg?v=1620497849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GANNI<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Festival-inspired crossbody bag in tech fabric, finished with rubber GANNI logo patch and cord-inspired contrast piping. Wear short on the shoulder or across the body. </span><br data-mce-fragment="1"><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">16 x 23 x 6,50 cm</li>
+<li data-mce-fragment="1">Zip pocket on front</li>
+<li data-mce-fragment="1">Adjustable strap</li>
+<li data-mce-fragment="1">Resistant tech nylon fabric</li>
+<li data-mce-fragment="1">GANNI logo zipper pull</li>
+</ul>
+<br data-mce-fragment="1"><span data-mce-fragment="1">100% RECYCLED POLYESTER </span><br data-mce-fragment="1"><span data-mce-fragment="1">This piece is made of 100% certified recycled polyester. Using recycled polyester reduces dependence on petroleum as a raw material and can divert plastic from ending in landfills.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GANNI</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6617003491391</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">160.00</s:price>
+      <s:sku>GA-PF21-FESTIVAL BAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6616464130111</id>
+    <published>2021-05-07T19:08:29-05:00</published>
+    <updated>2021-05-07T19:08:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/recycled-leather-pocket-bag-in-phantom"/>
+    <title>RECYCLED LEATHER POCKET BAG IN PHANTOM</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>GANNI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/A3420_5668_252.jpg?v=1620432521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GANNI<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The recycled cross-body bag by Ganni.</p>
+<ul>
+<li>Details: Interior colour is yellow, fits a phone and room for a small wallet and keys</li>
+<li>Material: <span data-mce-fragment="1">100% Recycled Leather Lining: 80% PL 20% Cotton</span>
+</li>
+<li><span data-mce-fragment="1">Comes with a dust bag</span></li>
+<li><span data-mce-fragment="1">Imported</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GANNI</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6616464130111</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku>GA-PF21-POCKET BAG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6616463966271</id>
+    <published>2021-05-07T19:07:38-05:00</published>
+    <updated>2021-05-07T19:07:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/copy-of-recycled-leather-pocket-bag-in-green"/>
+    <title>RECYCLED LEATHER POCKET BAG IN BANANA PRINT</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>GANNI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/A3500_5668_321.jpg?v=1620432468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GANNI<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The recycled cross-body bag by Ganni.</p>
+<ul>
+<li>Details: Interior colour is yellow, fits a phone and room for a small wallet and keys</li>
+<li>Material: <span data-mce-fragment="1">100% Recycled Leather Lining: 80% PL 20% Cotton</span>
+</li>
+<li><span data-mce-fragment="1">Comes with a dust bag</span></li>
+<li><span data-mce-fragment="1">Imported</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GANNI</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6616463966271</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku>GA-PF21-POCKET BAG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6616463245375</id>
+    <published>2021-05-07T19:06:01-05:00</published>
+    <updated>2021-05-07T19:06:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/recycled-leather-pocket-bag-in-daphne"/>
+    <title>RECYCLED LEATHER POCKET BAG IN DAPHNE</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>GANNI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/A3498_5668_572.jpg?v=1620432371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GANNI<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The recycled cross-body bag by Ganni.</p>
+<ul>
+<li>Details: Interior colour is pink, fits a phone and room for a small wallet and keys</li>
+<li>Material: <span data-mce-fragment="1">100% Recycled Leather Lining: 80% PL 20% Cotton</span>
+</li>
+<li><span data-mce-fragment="1">Comes with a dust bag</span></li>
+<li><span data-mce-fragment="1">Imported</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GANNI</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6616463245375</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku>GA-PF21-POCKET BAG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6616462426175</id>
+    <published>2021-05-07T19:04:21-05:00</published>
+    <updated>2021-05-07T19:04:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/recycled-leather-pocket-bag-in-madder-brown-1"/>
+    <title>RECYCLED LEATHER POCKET BAG IN PINK NECTAR</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>GANNI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/A3497_5668_478.jpg?v=1620432293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GANNI<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The recycled cross-body bag by Ganni.</p>
+<ul>
+<li>Details: Interior colour is green, fits a phone and room for a small wallet and keys</li>
+<li>Material: <span data-mce-fragment="1">100% Recycled Leather Lining: 80% PL 20% Cotton</span>
+</li>
+<li><span data-mce-fragment="1">Comes with a dust bag</span></li>
+<li><span data-mce-fragment="1">Imported</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GANNI</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6616462426175</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku>GA-PF21-POCKET BAG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6616462262335</id>
+    <published>2021-05-07T19:04:06-05:00</published>
+    <updated>2021-05-07T19:04:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/recycled-leather-pocket-bag-in-madder-brown"/>
+    <title>RECYCLED LEATHER POCKET BAG IN MADDER BROWN</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>GANNI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/A3496_5668_470.jpg?v=1620432247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GANNI<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The recycled cross-body bag by Ganni.</p>
+<ul>
+<li>Details: Interior colour is pink, fits a phone and room for a small wallet and keys</li>
+<li>Material: <span data-mce-fragment="1">100% Recycled Leather Lining: 80% PL 20% Cotton</span>
+</li>
+<li><span data-mce-fragment="1">Comes with a dust bag</span></li>
+<li><span data-mce-fragment="1">Imported</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GANNI</s:tag>
+    <s:tag>PRE-FALL 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6616462262335</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku>GA-PF21-POCKET BAG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6609736171583</id>
+    <published>2021-04-29T14:00:26-05:00</published>
+    <updated>2021-04-29T14:00:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/linen-tote-bag-in-large-blue-stripe"/>
+    <title>LINEN TOTE BAG IN LARGE BLUE STRIPE</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>LINGE PARTICULIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_4449.jpg?v=1619722851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LINGE PARTICULIER<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The linen tote bag by Linge Particulier.</p>
+<ul>
+<li>100% linen</li>
+<li>Made in France</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LINGE PARTICULIER</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6609736171583</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6609735778367</id>
+    <published>2021-04-29T13:59:50-05:00</published>
+    <updated>2021-04-29T13:59:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/linen-tote-bag-in-saffron-flower"/>
+    <title>LINEN TOTE BAG IN SAFFRON FLOWER</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>LINGE PARTICULIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_4451.jpg?v=1619722811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LINGE PARTICULIER<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The linen tote bag by Linge Particulier.</p>
+<ul>
+<li>100% linen</li>
+<li>Made in France</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LINGE PARTICULIER</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6609735778367</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6609735155775</id>
+    <published>2021-04-29T13:58:50-05:00</published>
+    <updated>2021-04-29T13:58:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/tote-bag-in-mustard-flower"/>
+    <title>TOTE BAG IN MUSTARD FLOWER</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>LINGE PARTICULIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_4450.jpg?v=1619722752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LINGE PARTICULIER<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The linen tote bag by Linge Particulier.</p>
+<ul>
+<li>100% linen</li>
+<li>Made in France</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LINGE PARTICULIER</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6609735155775</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6609734139967</id>
+    <published>2021-04-29T13:57:56-05:00</published>
+    <updated>2021-04-29T13:57:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/medium-linen-tote-bag-in-saffron-flower"/>
+    <title>MEDIUM LINEN TOTE BAG IN SAFFRON FLOWER</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>LINGE PARTICULIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_4455.jpg?v=1619722694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LINGE PARTICULIER<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The medium linen bag by Linge Particulier.</p>
+<ul>
+<li>100% linen</li>
+<li>Made in France</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LINGE PARTICULIER</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6609734139967</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6609733976127</id>
+    <published>2021-04-29T13:57:34-05:00</published>
+    <updated>2021-04-29T13:57:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/medium-linen-tote-bag-in-mustard-flower"/>
+    <title>MEDIUM LINEN TOTE BAG IN MUSTARD FLOWER</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>LINGE PARTICULIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_4452.jpg?v=1619722655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LINGE PARTICULIER<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The medium linen bag by Linge Particulier.</p>
+<ul>
+<li>100% linen</li>
+<li>Made in France</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LINGE PARTICULIER</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6609733976127</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+    <published>2021-03-03T10:24:25-06:00</published>
+    <updated>2021-03-03T10:24:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/the-narwhal-gift-card"/>
+    <title>THE NARWHAL GIFT CARD</title>
+    <s:type>GIFT CARD</s:type>
+    <s:vendor>The Narwhal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/GIFTCARDIMAGE.jpg?v=1614788788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Narwhal<br>
+        <strong>Type: </strong>GIFT CARD<br>
+        <strong>Price: </strong>
+            75.00 - 2000.00
+            <a href="https://thenarwhalboutique.myshopify.com/products/the-narwhal-gift-card">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A GIFT CARD TO YOUR FAVOURITE SHOP :)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GIFT CARD</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$75.00</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$150.00</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$200.00</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$300.00</title>
+      <s:price currency="CAD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$400.00</title>
+      <s:price currency="CAD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$500.00</title>
+      <s:price currency="CAD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$750.00</title>
+      <s:price currency="CAD">750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$1,000.00</title>
+      <s:price currency="CAD">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$1,250.00</title>
+      <s:price currency="CAD">1250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$1,500.00</title>
+      <s:price currency="CAD">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$1,750.00</title>
+      <s:price currency="CAD">1750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6544609050687</id>
+      <title>CA$2,000.00</title>
+      <s:price currency="CAD">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6538269655103</id>
+    <published>2021-02-26T08:18:07-06:00</published>
+    <updated>2021-02-26T08:18:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-woven-leather-basket-bag-in-flower-multi"/>
+    <title>WOVEN LEATHER BASKET BAG IN FLOWER MULTI</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>DRAGON DIFFUSION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/006_e28767d5-3bce-456f-b19e-1b793c6fe6c7.jpg?v=1614349216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DRAGON DIFFUSION<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">The interior of Dragon Diffusion’s flower mutli woven leather bag features an antiqued gold-tone metal Saint Christopher charm that is believed to protect those who carry it on their travels. It’s handcrafted by Indian artisans from woven leather that will develop a unique patina over time. Carry it alongside a lightweight dress and sandals for a tropical escape.</span></p>
+<ul class="pdp-accordion__body__details-list">
+<li>Details: hand-woven leather, braided top handles, unlined </li>
+<li>Material: 100% Leather</li>
+<li>Measurements: <span data-mce-fragment="1">19cm Tall, 30cm Wide, 10cm Deep</span>
+</li>
+<li>Imported</li>
+</ul>
+<p><em><strong>*item expected to ship by March 30, 2021*</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DRAGON DIFFUSION</s:tag>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6538269655103</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">525.00</s:price>
+      <s:sku>DD-SS21-FLOWER MULTI BAG</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6538268573759</id>
+    <published>2021-02-26T08:15:12-06:00</published>
+    <updated>2021-02-26T08:15:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-nantucket-woven-leather-basket-bag-in-red"/>
+    <title>NANTUCKET WOVEN LEATHER BASKET BAG IN RED</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>DRAGON DIFFUSION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_7446.jpg?v=1622814483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DRAGON DIFFUSION<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            625.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">The interior of Dragon Diffusion’s red Nantucket bag features an antiqued gold-tone metal Saint Christopher charm that is believed to protect those who carry it on their travels. It’s handcrafted by Indian artisans from woven leather that will develop a unique patina over time. Carry it alongside a lightweight dress and sandals for a tropical escape.</span></p>
+<ul class="pdp-accordion__body__details-list">
+<li>Details: hand-woven leather, braided top handles</li>
+<li>Material: 100% Leather</li>
+<li>Measurements: 17" wide, 10.1" tall, 5.1" deep, handle drop is 9.3"</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DRAGON DIFFUSION</s:tag>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6538268573759</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">625.00</s:price>
+      <s:sku>DD-SS21-NANTUCKET BASKET BAG</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6538267983935</id>
+    <published>2021-02-26T08:14:23-06:00</published>
+    <updated>2021-02-26T08:14:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-nantucket-woven-leather-basket-bag-in-black"/>
+    <title>NANTUCKET WOVEN LEATHER BASKET BAG IN BLACK</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>DRAGON DIFFUSION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/1352392_1_zoom.jpg?v=1614348884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DRAGON DIFFUSION<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            625.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">The interior of Dragon Diffusion’s black Nantucket bag features an antiqued gold-tone metal Saint Christopher charm that is believed to protect those who carry it on their travels. It’s handcrafted by Indian artisans from woven leather that will develop a unique patina over time. Carry it alongside a lightweight dress and sandals for a tropical escape.</span></p>
+<ul class="pdp-accordion__body__details-list">
+<li>Details: hand-woven leather, braided top handles</li>
+<li>Material: 100% Leather</li>
+<li>Measurements: 17" wide, 10.1" tall, 5.1" deep, handle drop is 9.3"</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DRAGON DIFFUSION</s:tag>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6538267983935</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">625.00</s:price>
+      <s:sku>DD-SS21-NANTUCKET BASKET BAG</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6538266869823</id>
+    <published>2021-02-26T08:12:03-06:00</published>
+    <updated>2021-02-26T08:12:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-nantucketwoven-leather-basket-bag-in-natural"/>
+    <title>NANTUCKET WOVEN LEATHER BASKET BAG IN NATURAL</title>
+    <s:type>HANDBAG</s:type>
+    <s:vendor>DRAGON DIFFUSION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_7499.jpg?v=1622814501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DRAGON DIFFUSION<br>
+        <strong>Type: </strong>HANDBAG<br>
+        <strong>Price: </strong>
+            625.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">The interior of Dragon Diffusion’s natural Nantucket bag features an antiqued gold-tone metal Saint Christopher charm that is believed to protect those who carry it on their travels. It’s handcrafted by Indian artisans from woven leather that will develop a unique patina over time. Carry it alongside a lightweight dress and sandals for a tropical escape.</span></p>
+<ul class="pdp-accordion__body__details-list">
+<li>Details: hand-woven leather, braided top handles</li>
+<li>Material: 100% Leather</li>
+<li>Measurements: 17" wide, 10.1" tall, 5.1" deep, handle drop is 9.3"</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6538266869823</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">625.00</s:price>
+      <s:sku>DD-SS21-NANTUCKET BASKET BAG</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

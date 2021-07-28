@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thenarwhalboutique.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thenarwhalboutique.myshopify.com/collections/all-accessories.atom"/>
+  <title>The Narwhal</title>
+  <updated>2021-07-25T20:24:58-05:00</updated>
+  <author>
+    <name>The Narwhal</name>
+  </author>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6684860874815</id>
+    <published>2021-07-25T20:24:58-05:00</published>
+    <updated>2021-07-25T20:24:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/sautoir-solitaire-0-10-carat-diamond-necklace-in-18k-yellow-gold"/>
+    <title>SAUTOIR SOLITAIRE 0.10 CARAT DIAMOND NECKLACE IN 18K YELLOW GOLD</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>YVONNE LEON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/sautoir-solitaire-diamant-or-jaune.jpg?v=1627262946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YVONNE LEON<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div class="product-information" data-mce-fragment="1">
+<div class="product-description-div1" id="product-description-short-879" data-mce-fragment="1" itemprop="description">
+<div>The large solitaire diamond necklace by Yvonne Leon.</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18 carats yellow gold</li>
+<li data-mce-fragment="1">3,8gr approx</li>
+<li data-mce-fragment="1">Diamond solitaire cut 0,10ct approx</li>
+<li data-mce-fragment="1">Prong setting</li>
+<li data-mce-fragment="1">Total length 60cm (24")</li>
+<li data-mce-fragment="1">Made in France</li>
+</ul>
+<p><em><strong>please note that all fine jewelry is considered final sale</strong></em></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:tag>YVONNE LEON</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6684860874815</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1499.00</s:price>
+      <s:sku>YVONNE LEON-SAUTOIRE SOLITARIRE DIAMOND NECKLACE</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6683516403775</id>
+    <published>2021-07-23T20:42:23-05:00</published>
+    <updated>2021-07-23T20:42:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-flower-chain-in-rainbow-sapphire"/>
+    <title>*pre-order* FLOWER CHAIN IN RAINBOW SAPPHIRE</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>MARIE LICHTENBERG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/FLOWER_MULTI_SAPHIR_1024x1024_2x_e8bb8446-167f-437e-bb39-cfbd8fe8bc0b.jpg?v=1627090946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MARIE LICHTENBERG<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            4800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flower Multi Chain. Gold flat link necklace with fixed pendants of flowers in the heart set with multicolored sapphires. Handcuff finish at both ends.</p>
+<ul>
+<li>
+<span style="font-size: 1.4em;">Flower Multi Chain 10K</span><span style="font-size: 1.4em;"> 40 cm - 16 in</span>
+</li>
+<li>Gold weight : approx. 11,93grs</li>
+<li>Sapphir : 54 x 1,5mm and 0,20grs</li>
+</ul>
+<p><em><strong>please note that all fine jewelry is considered final sale</strong></em></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MARIE LICHTENBERG</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6683516403775</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6683515912255</id>
+    <published>2021-07-23T20:41:52-05:00</published>
+    <updated>2021-07-23T20:41:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-locket-in-candy-heart-with-diamond-surround"/>
+    <title>*pre-order* LOCKET IN CANDY HEART WITH DIAMOND SURROUND</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>MARIE LICHTENBERG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/IMG_5534_0813fbc2-d18d-42b4-8c78-81e9977fb033.jpg?v=1627090915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MARIE LICHTENBERG<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            7785.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">Coconut effect matt gold pendant barrel set on diamond domes. A garnet heart surrounded by blue and pink enamels decorates this locket. Each locket is sold on a long mauli link that can be worn on the neck or as a wrap bracelet.</span><br></p>
+<ul>
+<li><span><meta charset="UTF-8">Locket candy heart punk multi email sapphir 14K</span></li>
+<li><span>Gold weight : 8,50grs</span></li>
+<li><span>Silver weight : 3,50grs</span></li>
+<li><span>Garnet : 4,5mm and 0,40grs </span></li>
+</ul>
+<p><em><strong>please note that all fine jewelry is considered final sale</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MARIE LICHTENBERG</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6683515912255</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7785.00</s:price>
+      <s:sku>ML-LOCKET CANDY HEART</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6683515551807</id>
+    <published>2021-07-23T20:40:44-05:00</published>
+    <updated>2021-07-23T20:40:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-locket-amour"/>
+    <title>*pre-order* LOCKET AMOUR</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>MARIE LICHTENBERG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/LOCKET_AMOUR_10K-1_1024x1024_2x_33a64989-64ed-42d0-a492-58a12985d0fd.jpg?v=1627090847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MARIE LICHTENBERG<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            4995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">A finely engraved yellow-gold cask pendant punctuated by a garnet heart and a moonstone. A gold engraving exalts the "Love you to the moon and back” inscription. Each locket is sold on a mauli link that can be worn on the neck or as a wrap bracelet.</span></p>
+<ul>
+<li><span style="font-size: 1.4em;">Locket amour 10K</span></li>
+<li>Gold weight : approx. 5,8grs</li>
+<li>Garnet : 4,5mm and 0,43grs </li>
+<li>Moonstone : 4,5mm and 0,26grs</li>
+</ul>
+<p><em><strong>please note that all fine jewelry is considered final sale</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MARIE LICHTENBERG</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6683515551807</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4995.00</s:price>
+      <s:sku>ML-LOCKET AMOUR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6683512930367</id>
+    <published>2021-07-23T20:35:36-05:00</published>
+    <updated>2021-07-23T20:35:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/solitaire-diamond-and-18k-yellow-gold-mixed-chain-bracelet"/>
+    <title>MAXI SOLITAIRE DIAMOND AND 18K YELLOW GOLD MIXED CHAIN BRACELET</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>YVONNE LEON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/maxi-bracelet-solitaire-diamant-or-jaunecopy.jpg?v=1627262486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YVONNE LEON<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            2975.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="css-cet0rr">Yvonne Léon's contemporary philosophy is reflected by the juxtaposing 18kt gold chains making up this bracelet, with contrasting elongated rectangular and oval links, exclusive to MATCHESFASHION. It's crafted in France with a 0.25ct pear-cut diamond set in the Falamenk Ottoman style, a technique dating back to the late 19th century designed to bring out the sparkle of the stone. Wear it along with the matching necklace to enhance the feminine mood.</span></p>
+<ul role="list" class="css-9letg0">
+<li class="css-anktol">18kt gold Yellow Gold</li>
+<li class="css-anktol">0.25ct pear-cut diamond</li>
+<li class="css-anktol">Spring-ring clasp</li>
+<li class="css-anktol">Gold weight: 3.8g</li>
+<li class="css-anktol">Made in France</li>
+</ul>
+<em><strong>please note that all fine jewelry is considered final sale</strong></em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:tag>YVONNE LEON</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6683512930367</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2975.00</s:price>
+      <s:sku>YVONNE LEON-18K YELLOW GOLD AND DIAMOND BRACELET</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6683512799295</id>
+    <published>2021-07-23T20:35:11-05:00</published>
+    <updated>2021-07-23T20:35:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/diamond-and-18k-yellow-gold-mixed-chain-bracelet"/>
+    <title>MAXI PEAR CUT DIAMOND AND 18K YELLOW GOLD MIXED CHAIN BRACELET</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>YVONNE LEON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/1375292_1.jpg?v=1627090512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YVONNE LEON<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            2975.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="css-cet0rr">Yvonne Léon's contemporary philosophy is reflected by the juxtaposing 18kt gold chains making up this bracelet, with contrasting elongated rectangular and oval links, exclusive to MATCHESFASHION. It's crafted in France with a 0.25ct pear-cut diamond set in the Falamenk Ottoman style, a technique dating back to the late 19th century designed to bring out the sparkle of the stone. Wear it along with the matching necklace to enhance the feminine mood.</span></p>
+<ul role="list" class="css-9letg0">
+<li class="css-anktol">18kt gold Yellow Gold</li>
+<li class="css-anktol">0.25ct pear-cut diamond</li>
+<li class="css-anktol">Spring-ring clasp</li>
+<li class="css-anktol">Gold weight: 3.8g</li>
+<li class="css-anktol">Made in France</li>
+</ul>
+<em><strong>please note that all fine jewelry is considered final sale</strong></em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:tag>YVONNE LEON</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6683512799295</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2975.00</s:price>
+      <s:sku>YVONNE LEON-18K YELLOW GOLD AND DIAMOND BRACELET</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6683492089919</id>
+    <published>2021-07-23T19:53:03-05:00</published>
+    <updated>2021-07-23T19:53:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/18k-yellow-gold-rhodolite-heart-bracelet"/>
+    <title>18K YELLOW GOLD RHODOLITE HEART BRACELET</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>YVONNE LEON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/1395814_5.jpg?v=1627088722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YVONNE LEON<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1795.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">Yvonne Léon's necklace has two different chain links, giving it such a cool and unique feel. It's handmade from 18-karat gold and centered with a heart-shaped pink rhodolite. The shorter length will layer nicely with other styles.</span></p>
+<ul>
+<li>Pink rhodolite, total weight: 0.75 carats</li>
+<li>18K Yellow Gold</li>
+<li>Clasp fastening</li>
+<li>Measurements: Pendant Width: 0.6cm/0.2" | Drop: 20cm/7.9" | Pendant Length - 0.7cm/0.3" </li>
+<li>Made  in France</li>
+</ul>
+<p><em><strong>please note that all fine jewelry is considered final sale</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:tag>YVONNE LEON</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6683492089919</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1795.00</s:price>
+      <s:sku>1795</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6683491958847</id>
+    <published>2021-07-23T19:52:44-05:00</published>
+    <updated>2021-07-23T19:52:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/18k-yellow-gold-rhodolite-heart-necklace"/>
+    <title>18K YELLOW GOLD RHODOLITE HEART NECKLACE</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>YVONNE LEON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/w2000_d8333a55-794c-4887-81de-4b5a9d021338.jpg?v=1627088741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YVONNE LEON<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2775.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">Yvonne Léon's necklace has two different chain links, giving it such a cool and unique feel. It's handmade from 18-karat gold and centered with a heart-shaped pink rhodolite. The shorter length will layer nicely with other styles.</span></p>
+<ul>
+<li>Pink rhodolite, total weight: 0.75 carats</li>
+<li>18K Yellow Gold</li>
+<li>Clasp fastening</li>
+<li>Measurements: Pendant Width: 0.6cm/0.2" | Drop: 20cm/7.9" | Pendant Length - 0.7cm/0.3" </li>
+<li>Made  in France</li>
+</ul>
+<em><strong>please note that all fine jewelry is considered final sale</strong></em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:tag>YVONNE LEON</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6683491958847</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2775.00</s:price>
+      <s:sku>YVONNE LEON - HEART RHODOLITE NECKLACE</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6683278442559</id>
+    <published>2021-07-23T13:40:53-05:00</published>
+    <updated>2021-07-23T13:40:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/diamond-palm-tree-stud-in-18k-yellow-gold"/>
+    <title>DIAMOND PALM TREE STUD IN 18K YELLOW GOLD</title>
+    <s:type>EARRING</s:type>
+    <s:vendor>YVONNE LEON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/puce-palmier-diamants-or-jaune_b1d4dbe0-178b-4ef1-ad84-1535f682d2e9.jpg?v=1627065655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YVONNE LEON<br>
+        <strong>Type: </strong>EARRING<br>
+        <strong>Price: </strong>
+            995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div class="product-information" data-mce-fragment="1">
+<div class="product-description-div1" id="product-description-short-879" data-mce-fragment="1" itemprop="description">
+<div>Palm tree and diamond stud by Yvonne Leon.</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18 carats yellow gold</li>
+<li data-mce-fragment="1">0,9gr approx</li>
+<li data-mce-fragment="1">Grey diamond 0,10ct approx</li>
+<li data-mce-fragment="1">Sold individually<br>
+</li>
+<li data-mce-fragment="1">Alpa System</li>
+<li data-mce-fragment="1">Made in France</li>
+</ul>
+<p><em><strong>please note that all fine jewelry is considered final sale</strong></em></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:tag>YVONNE LEON</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6683278442559</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">995.00</s:price>
+      <s:sku>YL-PALM TREE STUD</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6683277721663</id>
+    <published>2021-07-23T13:39:43-05:00</published>
+    <updated>2021-07-23T13:39:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pair-of-hoop-earrings-in-turquoise-enamel-and-diamond-pave-with-a-leopard-charm"/>
+    <title>PAIR OF HOOP EARRINGS IN TURQUOISE ENAMEL AND DIAMOND PAVE WITH A LEOPARD CHARM</title>
+    <s:type>EARRING</s:type>
+    <s:vendor>YVONNE LEON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/set-2-creoles-turquoise-dia-leopard-or-jaune_jpg_b039ad7b-e57e-462e-9ed4-c93b72040a19.png?v=1627065585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YVONNE LEON<br>
+        <strong>Type: </strong>EARRING<br>
+        <strong>Price: </strong>
+            1595.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A gorgeous mis-matched pair of earrings with a leopard pendant by Yvonne Leon. Can be worn together, or separate or as a pendant on a chain.</p>
+<ul>
+<li>Set of 2 hoop earrings &amp; Leopard charm's</li>
+<li>9 carats yellow gold</li>
+<li>3,4gr approx.</li>
+<li>Grey diamonds 0,13ct approx</li>
+<li>Black spinels 0,03ct approx</li>
+<li>Turquoise &amp; Black enamel 0,30ct approx</li>
+<li>Made in France</li>
+</ul>
+<p><em><strong>please note that all fine jewelry is considered final sale</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:tag>YVONNE LEON</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6683277721663</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1595.00</s:price>
+      <s:sku>YL-LEOPARD CHARM EARRINGS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6683277557823</id>
+    <published>2021-07-23T13:39:20-05:00</published>
+    <updated>2021-07-23T13:39:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pair-of-hoop-earrings-in-rose-enamel-and-diamond-pave-with-a-leopard-charm"/>
+    <title>PAIR OF HOOP EARRINGS IN ROSE ENAMEL AND DIAMOND PAVE WITH A LEOPARD CHARM</title>
+    <s:type>EARRING</s:type>
+    <s:vendor>YVONNE LEON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/set-2-creoles-rose-dia-leopard-or-jaune_jpg_30dee713-2704-4929-ba3a-ffa6a09d359a.png?v=1627065561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YVONNE LEON<br>
+        <strong>Type: </strong>EARRING<br>
+        <strong>Price: </strong>
+            1595.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A gorgeous mis-matched pair of earrings with a leopard pendant by Yvonne Leon. Can be worn together, or separate or as a pendant on a chain.</p>
+<ul>
+<li>Set of 2 hoop earrings &amp; Leopard charm's</li>
+<li>9 carats yellow gold</li>
+<li>3,4gr approx.</li>
+<li>Grey diamonds 0,13ct approx</li>
+<li>Black spinels 0,03ct approx</li>
+<li>Rose &amp; Black enamel 0,30ct approx</li>
+<li>Made in France</li>
+</ul>
+<p><em><strong>please note that all fine jewelry is considered final sale</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:tag>YVONNE LEON</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6683277557823</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1595.00</s:price>
+      <s:sku>YL-LEOPARD CHARM EARRINGS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6683276050495</id>
+    <published>2021-07-23T13:37:25-05:00</published>
+    <updated>2021-07-23T13:37:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pair-of-hoop-earrings-in-green-enamel-and-diamond-pave-with-a-leopard-charm-1"/>
+    <title>PAIR OF HOOP EARRINGS IN GREEN ENAMEL AND DIAMOND PAVE WITH A LEOPARD CHARM</title>
+    <s:type>EARRING</s:type>
+    <s:vendor>YVONNE LEON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/GREENset-2-creoles-verte-dia-tete-leopard-or-jaune_0f60e936-62d7-441f-abd7-d2fa4b0fa718.png?v=1627065447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YVONNE LEON<br>
+        <strong>Type: </strong>EARRING<br>
+        <strong>Price: </strong>
+            1595.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A gorgeous mis-matched pair of earrings with a leopard pendant by Yvonne Leon. Can be worn together, or separate or as a pendant on a chain.</p>
+<ul>
+<li>Set of 2 hoop earrings &amp; Leopard charm's</li>
+<li>9 carats yellow gold</li>
+<li>3,4gr approx.</li>
+<li>Grey diamonds 0,13ct approx</li>
+<li>Black spinels 0,03ct approx</li>
+<li>Green &amp; Black enamel 0,30ct approx</li>
+<li>Made in France</li>
+</ul>
+<p><em><strong>please note that all fine jewelry is considered final sale</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:tag>YVONNE LEON</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6683276050495</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1595.00</s:price>
+      <s:sku>YL-LEOPARD CHARM EARRINGS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6683275296831</id>
+    <published>2021-07-23T13:36:13-05:00</published>
+    <updated>2021-07-23T13:36:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/maxi-solitaire-emerald-necklace-in-18k-yellow-gold-1"/>
+    <title>MAXI SOLITAIRE EMERALD NECKLACE IN 18K YELLOW GOLD</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>YVONNE LEON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/1320011_in_2000_8e3750d9-5bde-49c7-a972-7d2958b8fea0.jpg?v=1627065376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YVONNE LEON<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            3375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div>The stunning maxi emerald necklace by Yvonne Leon.</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">18 carats yellow gold</li>
+<li data-mce-fragment="1">8,6gr approx</li>
+<li data-mce-fragment="1">Emerald oval cut 0,80ct approx</li>
+<li data-mce-fragment="1">Total length 42cm</li>
+</ul>
+<p><em><strong>please note that all fine jewelry is considered final sale</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:tag>YVONNE LEON</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6683275296831</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3375.00</s:price>
+      <s:sku>YL-EMERALD NECKLACE</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6672744022079</id>
+    <published>2021-07-11T13:13:36-05:00</published>
+    <updated>2021-07-11T13:13:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/florentine-finish-large-thick-round-hoop-earrings"/>
+    <title>FLORENTINE FINISH LARGE THICK ROUND HOOP EARRINGS</title>
+    <s:type>EARRINGS</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/largebuccihoops.jpg?v=1626027217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>EARRINGS<br>
+        <strong>Price: </strong>
+            2735.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">Our signature Florentine Finish is achieved by beating each piece with a diamond tipped tool, which leaves permanent faceted dents in the gold. </p>
+<p data-mce-fragment="1">Made from 18k Yellow Gold, these Large Round Thick Hoops are approximately 4.5cm in diameter.</p>
+<p data-mce-fragment="1">Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6672744022079</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2735.00</s:price>
+      <s:sku>CB-LARGE FF THICK HOOP EARRINGS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670687436863</id>
+    <published>2021-07-09T05:35:18-05:00</published>
+    <updated>2021-07-09T05:35:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-lucky-necklace-with-peace-charm"/>
+    <title>*pre-order* LUCKY NECKLACE WITH PEACE CHARM</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/LUCKYPEACENECKLACE_1e37a5c8-8c7b-4cce-8892-3509d84bb0e8.png?v=1625826922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Necklace is Carolina Bucci's extension of the classic Lucky Bracelet, inspired by the cotton friendship bracelets of her childhood. </p>
+<p>18k Yellow Gold diamond-cut chain, hand braided with Beige silk and finished with a Peace Charm.</p>
+<p>The versatility of this piece allows it to be worn both as a necklace or wrap bracelet. Double knot and make a wish when tying.</p>
+<p>Each necklace is approximately 95cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670687436863</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2900.00</s:price>
+      <s:sku>CB-LUCKY NECKLACE</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670686912575</id>
+    <published>2021-07-09T05:34:34-05:00</published>
+    <updated>2021-07-09T05:34:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-lucky-necklace-with-energy-charm"/>
+    <title>*pre-order* LUCKY NECKLACE WITH ENERGY CHARM</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/Carolina-Bucci-Necklace-25_copy_1000x_77b9e62d-fd66-4eff-bf87-55f5b358d902.png?v=1625826875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Necklace is Carolina Bucci's extension of the classic Lucky Bracelet, inspired by the cotton friendship bracelets of her childhood. </p>
+<p>18k Yellow Gold diamond-cut chain, hand braided with Pink silk and finished with a sun Energy Charm.</p>
+<p>The versatility of this piece allows it to be worn both as a necklace or wrap bracelet. Double knot and make a wish when tying.</p>
+<p>Each necklace is approximately 95cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670686912575</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670685765695</id>
+    <published>2021-07-09T05:33:28-05:00</published>
+    <updated>2021-07-09T05:33:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-lucky-necklace-with-balance-charm"/>
+    <title>*pre-order* LUCKY NECKLACE WITH BALANCE CHARM</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/Carolina-Bucci-Necklace-26_copy_1000x_614563c0-94bf-42d8-b6af-6eef992046b9.png?v=1625826810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Necklace is Carolina Bucci's extension of the classic Lucky Bracelet, inspired by the cotton friendship bracelets of her childhood. </p>
+<p>18k Yellow Gold diamond-cut chain, hand braided with Pink silk and finished with a Balance Charm.</p>
+<p>The versatility of this piece allows it to be worn both as a necklace or wrap bracelet. Double knot and make a wish when tying.</p>
+<p>Each necklace is approximately 95cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670685765695</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670676754495</id>
+    <published>2021-07-09T05:21:32-05:00</published>
+    <updated>2021-07-09T05:21:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/florentine-finish-extra-large-round-thick-hoop-earrings"/>
+    <title>FLORENTINE FINISH EXTRA LARGE ROUND THICK HOOP EARRINGS</title>
+    <s:type>EARRING</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ffxlhoops1_617b3de3-2669-4eb8-b513-c32b8e866c08.png?v=1625826093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>EARRING<br>
+        <strong>Price: </strong>
+            3695.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>Carolina Bucci's signature Florentine Finish is achieved by beating each piece with a diamond tipped tool, which leaves permanent faceted dents in the gold. </p>
+<p>Made from 18k Yellow Gold, these Extra Large Round Hoops are approximately 5.5cm in diameter.</p>
+<p>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670676754495</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3695.00</s:price>
+      <s:sku>cb-extra large hoops</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670675476543</id>
+    <published>2021-07-09T05:20:22-05:00</published>
+    <updated>2021-07-09T05:20:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-lucky-bracelet-with-peace-charm"/>
+    <title>*pre-order* LUCKY BRACELET WITH PEACE CHARM</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/CB3029PEY_1000x_430a3acf-1dfc-4e32-a7b8-5d65cbf60878.png?v=1625826024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">The Lucky Bracelet is Carolina Bucci's take on the classic cotton friendship bracelets of her childhood.</p>
+<p data-mce-fragment="1">18k Yellow Gold diamond-cut chain, hand braided with Pink silk and finished with a Cloud Charm symbolising Dream.</p>
+<p data-mce-fragment="1">This bracelet is meant to be worn alone or layered. Double knot and make a wish when tying.</p>
+<p data-mce-fragment="1">Each bracelet is approximately 34cm, including 4.5cm long tassels on either end.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670675476543</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1200.00</s:price>
+      <s:sku>CB-LUCKY BRACELET</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670674952255</id>
+    <published>2021-07-09T05:19:26-05:00</published>
+    <updated>2021-07-09T05:19:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-orrder-lucky-bracelet-with-energy-charm"/>
+    <title>*pre-orrder* LUCKY BRACELET WITH ENERGY CHARM</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/ENERGYBRACELET_dc5d6c95-2a01-4c9b-91e3-303ec0b96ce0.png?v=1625825970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>The Lucky Bracelet is Carolina Bucci's take on the classic cotton friendship bracelets of her childhood.</p>
+<p>18k Yellow Gold diamond-cut chain, hand braided with Brown silk and finished with a Sun Charm symbolising Energy.</p>
+<p>This bracelet is meant to be worn alone or layered. Double knot and make a wish when tying.</p>
+<p>Each bracelet is approximately 34cm, including 4.5cm long tassels on either end.</p>
+<p><span>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>PRE-ORDER</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670674952255</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670673379391</id>
+    <published>2021-07-09T05:17:23-05:00</published>
+    <updated>2021-07-09T05:17:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/florentine-finish-cuore-hoop-earrings"/>
+    <title>FLORENTINE FINISH CUORE HEART HOOP EARRINGS</title>
+    <s:type>EARRING</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/1254977_fr_2000_bc8ba0c4-2a75-43c9-aa07-d59fe2d8adf3.jpg?v=1625825845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>EARRING<br>
+        <strong>Price: </strong>
+            2195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">Carolina Bucci's signature Florentine Finish is achieved by beating each piece with a diamond tipped tool, which leaves permanent faceted indentations in the gold. </p>
+<p data-mce-fragment="1"><span>Crafted from 18-karat gold in the shape of a loveheart, they've been carefully hammered with a diamond-tipped tool to create the designer's signature 'Florentine' finish. They're sleek and small enough to complement outfits, instead of being the focal point.</span></p>
+<p>Made from either 18k Yellow Gold, these hoops are approximately 3cm in diameter.</p>
+<p>Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670673379391</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2195.00</s:price>
+      <s:sku>CB-CUORE EARRINGS</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670672330815</id>
+    <published>2021-07-09T05:15:02-05:00</published>
+    <updated>2021-07-09T05:15:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/forte-beads-glasses-kit-in-rainbow-1"/>
+    <title>FORTE BEADS GLASSES KIT IN RAINBOW</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/CB_071912391_73612b07-4c75-4db9-bd13-32652efe4513.jpg?v=1625825712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            1595.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">FORTE Beads is a collection based around a rainbow of precious hard-stone beads strung onto Lurex cords. Carolina Bucci's FORTE  Beads Glasses kit comes with 60 vibrant hard stone beads in a preset rainbow of colours and a sun cord.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">The FORTE Beads glasses sun colour Lurex cords feature beautifully crafted Florentine Finish end caps in 18k yelloww Gold</span></p>
+<p data-mce-fragment="1">Create your own distinctive designs by unscrewing the rubber loop and threading on the beads. 18k Gold Beads and Florentine Finish Letters can be bought separately to personalise your look.</p>
+<p data-mce-fragment="1">Each new combination is a unique expression of how you live today, how you feel today… Easy to construct and just as easy to deconstruct and start again.</p>
+<p data-mce-fragment="1">The FORTE Beads Glasses kit features adjustable rubber loops which fit easily over the arms of your favourite sunglasses or reading glasses.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670672330815</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1595.00</s:price>
+      <s:sku>cb-ss21-forte glasses kit</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670671937599</id>
+    <published>2021-07-09T05:14:19-05:00</published>
+    <updated>2021-07-09T05:14:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/forte-florentine-finish-letter-g-1"/>
+    <title>FORTE FLORENTINE FINISH LETTER G</title>
+    <s:type>BRACELET</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/CBP90903_G_YFF_1000x_c4352747-e5d3-4de1-84d2-a9f4808ec962.png?v=1625825661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>BRACELET<br>
+        <strong>Price: </strong>
+            1095.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Add our 18k gold Letters to your FORTE Beads necklace or bracelet to create your personalised look. Each of our Florentine Finish letters have been meticulously crafted in our Atelier with our signature finish created with a diamond tipped tool that leaves shimmering indents.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">All of the 18k Gold Letters are sold individually and can be ordered if currently unavailable...all special orders take approximately 6-8 weeks.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">All fine jewelry is final sale.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670671937599</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1095.00</s:price>
+      <s:sku>CB-FORTE GOLD BEADS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670671282239</id>
+    <published>2021-07-09T05:13:20-05:00</published>
+    <updated>2021-07-09T05:13:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/pre-order-florentine-finish-small-cuore-pendant"/>
+    <title>*pre-order* FLORENTINE FINISH SMALL CUORE PENDANT</title>
+    <s:type>PENDANT</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/carolina-bucci-Gold-Small-Florentine-Finish-Heart-Cuore-Charm-Pendant_ddcdad4a-2ff5-4cf1-8f14-01040c622c00.jpg?v=1625825602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>PENDANT<br>
+        <strong>Price: </strong>
+            2295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><meta charset="UTF-8"><span data-mce-fragment="1">Available in 18k Yellow Gold, the Small Heart Pendant is approximately 1.5cm tall and features a classic Carolina Bucci Link</span></p>
+<p data-mce-fragment="1">This piece is meant to be worn with any of her classic chains, Discoball necklaces, Lucky Necklaces or Forte Bead Kits.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Please note that as each product is made by hand, there may be slight natural variations in the length or tone of pieces.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>SPRING 2021</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670671282239</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2295.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thenarwhalboutique.myshopify.com/products/6670670233663</id>
+    <published>2021-07-09T05:12:16-05:00</published>
+    <updated>2021-07-09T05:12:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thenarwhalboutique.myshopify.com/products/forte-beads-rainbow-necklace-and-bracelet-multi-kit-1"/>
+    <title>FORTE BEADS RAINBOW NECKLACE AND BRACELET MULTI-KIT</title>
+    <s:type>NECKLACE</s:type>
+    <s:vendor>CAROLINA BUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0299/1257/products/carolina-bucci-multicoloured-rainbow-sun-forte-bead-kit_13488848_17210463_1920_308776a2-2573-4b34-932f-d2880e2b8055.jpg?v=1625825537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINA BUCCI<br>
+        <strong>Type: </strong>NECKLACE<br>
+        <strong>Price: </strong>
+            2195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span data-mce-fragment="1"></span></div>
+<div>
+<meta charset="UTF-8">
+<div>FORTE Beads is a collection based around a rainbow of precious hard-stone beads. Each necklace and bracelet is a unique expression of your style today, how you feel today… Easy to construct and just as easy to deconstruct and start again.</div>
+<div><br></div>
+<div>Our FORTE Beads Necklace and Bracelet Kit comes with 84 vibrant hard-stone beads in a preset rainbow of colours, two Florentine Finish 18k Gold beads and a bracelet and necklace cord in the colour of your choice. </div>
+<div><br></div>
+<div>The FORTE Beads collection offers four exclusive colour Lurex cords to choose from, with beautifully crafted Florentine Finish end caps in 18k Gold: </div>
+<div><br></div>
+<div>Storm, Gunmetal, Sun &amp; Moon </div>
+<div><br></div>
+<div>Create your own distinctive designs by threading on the beads and tying the cord to your preferred length. The FORTE Beads Necklace can be easily styled as a wrap bracelet or choker, allowing you to express your personal style in a creative way everyday. Additional 18k Gold beads and Florentine Finish 18k letters can be bought separately to personalise your look.</div>
+<div><br></div>
+<div>Enjoy Playing!</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAROLINA BUCCI</s:tag>
+    <s:tag>WHAT&apos;S NEW</s:tag>
+    <s:variant>
+      <id>https://thenarwhalboutique.myshopify.com/products/6670670233663</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2195.00</s:price>
+      <s:sku>CB-FORTE BEAD KIT</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+</feed>
